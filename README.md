@@ -7,3 +7,9 @@ Current data location:
 1. Metadata from pushiftIO: /cs/labs/tomhope/almog.mor/pushift_io_data
 2. Filtered data in csv format: /cs/labs/tomhope/almog.mor/raw_data_all_years
 3. Processed data in csv format: /cs/labs/tomhope/almog.mor/raw_data_with_posts
+
+High level system design:
+Data extraction and processing include 3 stages: 
+* Downloading metadata from pushift.io in ‘zft’ format. Each file includes all the metadata about all the threads in Reddit per month. 
+* The second stage gets as input the ‘zft’ files, filter the relevant threads, extract the relevant columns and convert them into ‘csv’ files. In this project we chose to filter a list of cancer related threads. 
+* The last stage is a crawler which gets the ‘permalink’ from the ‘csv’ files of stage 2 and scraps the post, comment and title from the reddit website. The last stage outputs the ‘raw_data’ file per month in a ‘csv’ format which is ready to later be annotated. 
