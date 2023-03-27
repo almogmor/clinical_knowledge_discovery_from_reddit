@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756XCZ</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_131@No, you aren’t an asshole.  It’s hard and kinda infuriating at times trying to be patient with people when you’re going through a lot.  </text>
+    </passage>
+    <passage>
+      <offset>159</offset>
+      <text>Three hours after I got home from the hospital after having a hysterectomy, my “best friend” texted me that her third was the size of a blueberry.  (I’ve wanted kids forever.). I went off and the most she could reply was a frowning emoji.  </text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:48:16Z</infon>
+        <location offset="221" length="12"/>
+        <text>hysterectomy</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>405</offset>
+      <text>People are self absorbed shits.</text>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317AIF</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_47@No symptom other than hoarseness.</text>
+      <annotation id="1">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T16:18:55Z</infon>
+        <location offset="38" length="10"/>
+        <text>hoarseness</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041757UZI</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_105@So with this last round of treatment, I'm experiencing neuropathy in my feet with sharp stabbing pains and numbness, also pain in the knees and legs.  Has anyone tried using compression socks to alleviate pain?</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:47:53Z</infon>
+        <location offset="32" length="18"/>
+        <text>round of treatment</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:48:14Z</infon>
+        <location offset="69" length="10"/>
+        <text>neuropathy</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:48:26Z</infon>
+        <location offset="96" length="20"/>
+        <text>sharp stabbing pains</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:48:26Z</infon>
+        <infon key="error:misaligned:4">110-&gt;111</infon>
+        <location offset="111" length="5"/>
+        <text>pains</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:48:43Z</infon>
+        <location offset="121" length="8"/>
+        <text>numbness</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:48:56Z</infon>
+        <infon key="error:misaligned:7">135-&gt;136</infon>
+        <location offset="136" length="4"/>
+        <text>pain</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:48:56Z</infon>
+        <location offset="136" length="26"/>
+        <text>pain in the knees and legs</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:49:04Z</infon>
+        <location offset="148" length="5"/>
+        <text>knees</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:49:07Z</infon>
+        <infon key="error:misaligned:9">157-&gt;158</infon>
+        <location offset="158" length="4"/>
+        <text>legs</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:49:22Z</infon>
+        <location offset="188" length="17"/>
+        <text>compression socks</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317XEP</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_31@I’m 2 years out of radiation and I have scaring in my left lung. Also I have days where my breast still swells up. I have very sore muscles and some days the pain is so bad. I saw my oncologist 2 days ago and he told me it’s normal. He told me radiation continues working long after it ends.  During radiation I had nausea and about 4 months after I dropped weight like crazy. I wasn’t expecting anything but maybe burning of the skin. Which actually never happened. Good luck but I believe it may be normal.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:38:17Z</infon>
+        <location offset="35" length="9"/>
+        <text>radiation</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:03:43Z</infon>
+        <location offset="70" length="9"/>
+        <text>left lung</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:03:43Z</infon>
+        <location offset="75" length="4"/>
+        <text>lung</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:03:46Z</infon>
+        <location offset="107" length="6"/>
+        <text>breast</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:39:19Z</infon>
+        <location offset="120" length="9"/>
+        <text>swells up</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-03-11T18:03:58Z</infon>
+        <location offset="143" length="12"/>
+        <text>sore muscles</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:03:58Z</infon>
+        <location offset="148" length="7"/>
+        <text>muscles</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:39:55Z</infon>
+        <location offset="174" length="4"/>
+        <text>pain</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:40:11Z</infon>
+        <location offset="260" length="9"/>
+        <text>radiation</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:40:22Z</infon>
+        <location offset="316" length="9"/>
+        <text>radiation</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:40:38Z</infon>
+        <location offset="332" length="6"/>
+        <text>nausea</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:40:45Z</infon>
+        <location offset="366" length="14"/>
+        <text>dropped weight</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:41:03Z</infon>
+        <location offset="431" length="7"/>
+        <text>burning</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

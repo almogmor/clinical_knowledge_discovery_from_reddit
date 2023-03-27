@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317MGY</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_34@Should probably take methylated folate even if you don’t know your MTHFR status, just FYI. Avoid folic acid (the artificial form of folate), which can actually cause deficiencies in people with the MTHFR mutation. If you don’t have it, methylated folate won’t hurt you!</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:00:54Z</infon>
+        <location offset="37" length="17"/>
+        <text>methylated folate</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:01:32Z</infon>
+        <location offset="83" length="5"/>
+        <text>MTHFR</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:01:58Z</infon>
+        <location offset="113" length="10"/>
+        <text>folic acid</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:02:44Z</infon>
+        <location offset="214" length="14"/>
+        <text>MTHFR mutation</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:03:04Z</infon>
+        <location offset="252" length="17"/>
+        <text>methylated folate</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

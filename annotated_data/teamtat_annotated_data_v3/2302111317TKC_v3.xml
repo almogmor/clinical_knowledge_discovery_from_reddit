@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317TKC</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_87@If they are symmetrical than they’re saying that 4 nodes are also positive on the non- effected side also?? Is that what they mean ? Maybe cause your getting chemo they don’t need to remove them?? Idk, I would definitely question them about it. </text>
+      <annotation id="2">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T13:18:02Z</infon>
+        <location offset="28" length="11"/>
+        <text>symmetrical</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T13:17:49Z</infon>
+        <location offset="174" length="5"/>
+        <text>chemo</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>265</offset>
+      <text>B</text>
+    </passage>
+  </document>
+</collection>

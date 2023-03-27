@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111316QAM</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_13@Does it normally hurt anyway? No matter how long the port has been in place? I wasn’t expecting that.</text>
+      <annotation id="1">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:59:28Z</infon>
+        <location offset="33" length="4"/>
+        <text>hurt</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

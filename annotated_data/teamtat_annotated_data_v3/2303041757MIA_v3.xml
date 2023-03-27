@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041757MIA</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_102@I have been fairly active on this sub as a Lymphoma survivor going on 9 years of remission (DLBC NHL, 8x RCHOP / 25 radiation sessions). I like to share my experience on the survivor side as an example that we are so much more than our disease, and life after lymphoma IS a reality. I've been thriving on this mindset for years now. After going into remission I found love, had a child, bought a house, advanced in my career; all great stuff, huh? Yes, I'm doing just fine. Until the last week of June, when, after months of seeing suspicious test results trickle in, my husband was diagnosed with stage 3 mixed cellular Hodgkin's lymphoma. WTF, right? If I had to put money on one of us having lymphoma in 2022 I would have been all in on my own relapse. But my otherwise fairly healthy 33 year old husband, with no family history of cancer? The man who pursued me right after treatment even though I was still bald and scarred from my own fight? Why him? What kind of sick fucking joke is this?</text>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:51:15Z</infon>
+        <location offset="57" length="8"/>
+        <text>Lymphoma</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:51:36Z</infon>
+        <location offset="95" length="9"/>
+        <text>remission</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:54:21Z</infon>
+        <location offset="106" length="8"/>
+        <text>DLBC NHL</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:54:23Z</infon>
+        <location offset="116" length="8"/>
+        <text>8x RCHOP</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:54:26Z</infon>
+        <location offset="127" length="21"/>
+        <text>25 radiation sessions</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:54:44Z</infon>
+        <location offset="274" length="8"/>
+        <text>lymphoma</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:55:14Z</infon>
+        <location offset="364" length="9"/>
+        <text>remission</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:55:42Z</infon>
+        <location offset="597" length="9"/>
+        <text>diagnosed</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:55:47Z</infon>
+        <location offset="612" length="7"/>
+        <text>stage 3</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:56:03Z</infon>
+        <location offset="635" length="18"/>
+        <text>Hodgkin's lymphoma</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:56:12Z</infon>
+        <location offset="709" length="8"/>
+        <text>lymphoma</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:56:28Z</infon>
+        <location offset="849" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>1010</offset>
+      <text>I've been trying to remain very strong and positive for him. I know what he's in for with chemo (6 cycles of AAVD). I was able to let him know what to expect with the excisional biopsy, port placement, and the dreaded bone marrow biopsy. I know what questions he should be asking of his oncologist and nurses. I make sure he's getting the answers he needs. But this is tough. Being a caregiver is a whole other kind of experience, and I never really thought too much about the effects a patient's cancer has on their loved ones. It's just tough and some days I really struggle with this being our reality. Our daughter now has two parents that have had cancer. Even though we know lymphoma is not hereditary, it makes me worry. </text>
+      <annotation id="13">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:57:06Z</infon>
+        <location offset="1100" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:57:09Z</infon>
+        <location offset="1107" length="16"/>
+        <text>6 cycles of AAVD</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:57:26Z</infon>
+        <location offset="1188" length="6"/>
+        <text>biopsy</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:58:05Z</infon>
+        <location offset="1220" length="26"/>
+        <text>dreaded bone marrow biopsy</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:58:05Z</infon>
+        <location offset="1240" length="6"/>
+        <text>biopsy</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:58:38Z</infon>
+        <location offset="1507" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:58:56Z</infon>
+        <location offset="1663" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:59:11Z</infon>
+        <location offset="1691" length="8"/>
+        <text>lymphoma</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>1738</offset>
+      <text>Has anyone else gone through something like this?</text>
+    </passage>
+  </document>
+</collection>

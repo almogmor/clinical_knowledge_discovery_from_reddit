@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041757BLX</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_124@It’s been a month since my TT and I’ve noticed I’ll have bursts of energy and then all of a sudden my body feels really heavy and I could just collapse from exhaustion. I’ve noticed I’m more tired than I used to be before surgery and I figured it was just from recovery but since it’s been a little over a month now, I’m wondering if it’s the Synthroid dosage? I’m getting a good 7-8 hrs of sleep each night and I live a pretty healthy lifestyle but the exhaustion is getting more intense and more frequent. (About 155-160 lbs and taking 150mg of Synthroid). I also haven’t been great about remembering to take my calcium. Could that be it too?</text>
+      <annotation id="1">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:58:17Z</infon>
+        <location offset="157" length="8"/>
+        <text>collapse</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:58:19Z</infon>
+        <location offset="171" length="10"/>
+        <text>exhaustion</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:58:23Z</infon>
+        <location offset="205" length="5"/>
+        <text>tired</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:58:29Z</infon>
+        <location offset="236" length="7"/>
+        <text>surgery</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:58:47Z</infon>
+        <location offset="357" length="16"/>
+        <text>Synthroid dosage</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:59:02Z</infon>
+        <location offset="512" length="8"/>
+        <text>frequent</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:59:15Z</infon>
+        <location offset="628" length="7"/>
+        <text>calcium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>678</offset>
+      <text>(Oh and I fully intend to get in touch with my doc tmrw to let her know. Just curious what y’all think based on y’all’s experience. )</text>
+    </passage>
+  </document>
+</collection>

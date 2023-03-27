@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315PWP</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_14@before surgery, having a scar was one of my biggest concerns and I was booked to have the scarless surgery through the armpit. even after surgery, it was so raw and red looking, i thought i was hideous. I’ve been looking after my scar everyday now and it’s still there, very visible. It’s been healing well, and I found myself actually getting sad that it’s not as noticeable now as it’s starting to fade a little, which is so strange. </text>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:41:22Z</infon>
+        <location offset="20" length="7"/>
+        <text>surgery</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:29:41Z</infon>
+        <location offset="65" length="8"/>
+        <text>concerns</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:41:29Z</infon>
+        <location offset="112" length="7"/>
+        <text>surgery</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:41:34Z</infon>
+        <location offset="151" length="7"/>
+        <text>surgery</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>459</offset>
+      <text>I’ve come to love the way it looks, like a battle scar except it’s on your neck so it looks absolutely badass and people will have different interpretations in their heads how it happened (which makes me look more badass). I don’t know. I like it now. :)</text>
+    </passage>
+  </document>
+</collection>

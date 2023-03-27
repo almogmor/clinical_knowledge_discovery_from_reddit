@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315GQL</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_44@Anyone changing their diet to include flaxseed meal for hormone positive cancer? Seen some studies suggesting it may have estrogen blocking activity but haven’t asked my onc yet about it. As I’m going to eventually be on a hormone blocker, not sure if it isn’t recommended if you’re going that route.</text>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:15:36Z</infon>
+        <location offset="35" length="4"/>
+        <text>diet</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:15:40Z</infon>
+        <location offset="51" length="13"/>
+        <text>flaxseed meal</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:15:43Z</infon>
+        <location offset="69" length="16"/>
+        <text>hormone positive</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:25:08Z</infon>
+        <location offset="86" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:16:16Z</infon>
+        <location offset="135" length="17"/>
+        <text>estrogen blocking</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:16:25Z</infon>
+        <location offset="236" length="15"/>
+        <text>hormone blocker</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317PKA</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_84@Call your doctor tomorrow and tell them how bad the choking while eating food is. Try to get surgery consult soon. </text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:25:57Z</infon>
+        <location offset="109" length="7"/>
+        <text>surgery</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:25:57Z</infon>
+        <location offset="109" length="15"/>
+        <text>surgery consult</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>131</offset>
+      <text>In my case, the whole process from first ultrasound to final surgery took 8 months due to delays. My compressive symptoms got worse, but I could still eat small bites and breath if i sat straight or slept on my side (slouching or sleeping on my back cut off my airway). </text>
+      <annotation id="3">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:26:11Z</infon>
+        <location offset="172" length="10"/>
+        <text>ultrasound</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:26:15Z</infon>
+        <location offset="192" length="7"/>
+        <text>surgery</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>401</offset>
+      <text>You will feel so much better after the surgery. It felt so freeing and light, and like something stopped strangling my neck LOL</text>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:28:40Z</infon>
+        <location offset="440" length="7"/>
+        <text>surgery</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:29:26Z</infon>
+        <location offset="506" length="10"/>
+        <text>strangling</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

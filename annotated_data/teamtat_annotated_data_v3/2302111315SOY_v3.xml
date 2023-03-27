@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315SOY</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_65@Hey all. Little background story:  </text>
+    </passage>
+    <passage>
+      <offset>48</offset>
+      <text>I had a double non-nipple-sparing mastectomy with immediate DIEP flap reconstruction in January of 2021.  </text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:02:38Z</infon>
+        <location offset="56" length="36"/>
+        <text>double non-nipple-sparing mastectomy</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:02:38Z</infon>
+        <infon key="error:misaligned:2">81-&gt;82</infon>
+        <location offset="82" length="10"/>
+        <text>mastectomy</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:03:42Z</infon>
+        <location offset="108" length="9"/>
+        <text>DIEP flap</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:03:42Z</infon>
+        <location offset="108" length="24"/>
+        <text>DIEP flap reconstruction</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>154</offset>
+      <text>For the last week or so I am experiencing a deep seated itching in my right breast. Its is driving me bonkers and no amount of antihistamines or lotion helps.  </text>
+      <annotation id="5">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:04:01Z</infon>
+        <location offset="224" length="12"/>
+        <text>right breast</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:04:01Z</infon>
+        <infon key="error:misaligned:6">229-&gt;230</infon>
+        <location offset="230" length="6"/>
+        <text>breast</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:04:28Z</infon>
+        <location offset="281" length="14"/>
+        <text>antihistamines</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:04:30Z</infon>
+        <location offset="299" length="6"/>
+        <text>lotion</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>314</offset>
+      <text>Anybody here with the same issue and maybe a solution?  </text>
+    </passage>
+    <passage>
+      <offset>370</offset>
+      <text>I understand itching a few months after surgery but mine has been 1 1/2 years ago.</text>
+      <annotation id="9">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:04:41Z</infon>
+        <location offset="410" length="7"/>
+        <text>surgery</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756WEL</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_113@My heart goes out to you, and I'm so sorry that you're going through this.  I know your mother wouldn't want you to suffer and doesn't realize how much you need to talk about what you're both going through. As others have said, please talk to your teachers and school counselors. I'm sorry your friends haven't been there for you, but maybe you could ask your school counselors if they can help you connect with a support group to meet others in a similar situation. I see someone else posted some support resources-those are very helpful too.</text>
+    </passage>
+    <passage>
+      <offset>560</offset>
+      <text>It's a tough diagnosis and it's scary. But many of my extended network of friends know women who've had breast cancer, gone through treatment and have fully recovered and are now leading normal lives.  Lots of them. I hold onto that when I'm feeling negative.</text>
+      <annotation id="1">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:06:42Z</infon>
+        <location offset="573" length="9"/>
+        <text>diagnosis</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:06:49Z</infon>
+        <location offset="592" length="5"/>
+        <text>scary</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:07:11Z</infon>
+        <infon key="error:misaligned:5">663-&gt;664</infon>
+        <location offset="664" length="6"/>
+        <text>breast</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:07:04Z</infon>
+        <location offset="664" length="13"/>
+        <text>breast cancer</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:07:04Z</infon>
+        <location offset="671" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>819</offset>
+      <text>Do the best you can with school and don't beat yourself up about what's done. My daughter is a couple of years older than you and also had an incredibly rough senior year (for a different reason), and took a big hit on grades. She took a gap year and is doing so well now and planning to start as a freshman next year.  Hang in there, I truly believe it will get better.</text>
+    </passage>
+  </document>
+</collection>

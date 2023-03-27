@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317IGJ</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_82@Yes. I started Keytruda during chemo and continued after surgery and radiation.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T13:20:36Z</infon>
+        <location offset="31" length="8"/>
+        <text>Keytruda</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T13:20:47Z</infon>
+        <location offset="47" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T13:21:06Z</infon>
+        <location offset="73" length="7"/>
+        <text>surgery</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T13:21:16Z</infon>
+        <location offset="85" length="9"/>
+        <text>radiation</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

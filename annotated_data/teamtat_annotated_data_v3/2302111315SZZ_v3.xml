@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315SZZ</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_28@There is this expectation out there that we should be grateful and happy to be alive after having survived cancer. Do a lot of survivors feel this way?</text>
+      <annotation id="1">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:28:45Z</infon>
+        <location offset="67" length="8"/>
+        <text>grateful</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:28:48Z</infon>
+        <location offset="80" length="5"/>
+        <text>happy</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:28:53Z</infon>
+        <location offset="120" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>164</offset>
+      <text>For me, it has opened my eyes at how brutal and horrifying this world can be. From surgeries to scans to needles to medical bills to ghosting from friends when you needed them most, I fear I will never see the world the same way again, and I mean that in a very negative way. It's been 4 years for me this month and I am a changed person for the worse still.</text>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:29:01Z</infon>
+        <location offset="247" length="9"/>
+        <text>surgeries</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:29:16Z</infon>
+        <location offset="260" length="5"/>
+        <text>scans</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:29:18Z</infon>
+        <location offset="269" length="7"/>
+        <text>needles</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>522</offset>
+      <text>I am in very interested in other people's stories and thoughts.</text>
+    </passage>
+  </document>
+</collection>

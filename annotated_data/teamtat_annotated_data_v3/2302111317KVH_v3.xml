@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317KVH</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_92@Thank you too for writing! I guess I was naively thinking that post surgery and post radiation life might feel a little more normal. But seems there are still things to be concerned about.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T13:10:01Z</infon>
+        <location offset="84" length="7"/>
+        <text>surgery</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T13:10:30Z</infon>
+        <location offset="101" length="9"/>
+        <text>radiation</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T17:31:48Z</infon>
+        <location offset="188" length="9"/>
+        <text>concerned</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

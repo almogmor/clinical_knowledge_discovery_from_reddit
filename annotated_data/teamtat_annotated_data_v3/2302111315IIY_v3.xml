@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315IIY</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_4@I have just finished nine months of chemo for my osteosarcoma. I so so so hope it’s gone!! </text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:52:22Z</infon>
+        <location offset="48" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:52:29Z</infon>
+        <location offset="61" length="12"/>
+        <text>osteosarcoma</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>105</offset>
+      <text>Everybody else doesn’t seem to think it’s a big deal but I am so proud I just had to share!!</text>
+    </passage>
+    <passage>
+      <offset>201</offset>
+      <text>One knee prosthetic, two lung surgeries and mtx, doxorubicin and cisplatin combined. </text>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:52:58Z</infon>
+        <location offset="226" length="14"/>
+        <text>lung surgeries</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:53:00Z</infon>
+        <location offset="245" length="3"/>
+        <text>mtx</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:47:06Z</infon>
+        <infon key="error:misaligned:8">249-&gt;250</infon>
+        <location offset="250" length="34"/>
+        <text>doxorubicin and cisplatin combined</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:47:06Z</infon>
+        <location offset="250" length="11"/>
+        <text>doxorubicin</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:47:06Z</infon>
+        <location offset="266" length="9"/>
+        <text>cisplatin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>286</offset>
+      <text>I know you never know for sure but I am so glad that at least in this very moment there is no chemo waiting for me at the start of every week :))</text>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:53:14Z</infon>
+        <location offset="380" length="5"/>
+        <text>chemo</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

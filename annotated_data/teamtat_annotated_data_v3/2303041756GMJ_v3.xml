@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756GMJ</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_116@Port on a Monday, chemo on that Wednesday. I don’t remember it really being different than any other stick. I used and still use the lidocaine cream. The anxiety was worse than the actual event. Once it’s pierced, the pain stops and they tape it so it doesn’t move around. It’s easy to forget it’s there. One time the nurse had trouble and had to wiggle it around and redo it….that was not fun, but happened 1 of 13 times…so all is forgiven.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:01:45Z</infon>
+        <location offset="35" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:02:00Z</infon>
+        <infon key="error:misaligned:3">149-&gt;150</infon>
+        <location offset="150" length="15"/>
+        <text>lidocaine cream</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:02:00Z</infon>
+        <location offset="150" length="9"/>
+        <text>lidocaine</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:02:06Z</infon>
+        <location offset="171" length="7"/>
+        <text>anxiety</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:02:16Z</infon>
+        <location offset="235" length="4"/>
+        <text>pain</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

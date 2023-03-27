@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317POR</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_56@No not the asshole.    The friend sounds fairly self centered.  Other side of this is what is routine for one person is another persons trauma.  One man’s ceiling is another man’s floor .  </text>
+    </passage>
+    <passage>
+      <offset>209</offset>
+      <text>Hopefully an open conversation follows.   A true friend is hard to find.  </text>
+    </passage>
+    <passage>
+      <offset>283</offset>
+      <text>I’m sorry about your last year.  Many wishes for good health</text>
+    </passage>
+  </document>
+</collection>

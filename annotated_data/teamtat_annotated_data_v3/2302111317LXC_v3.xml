@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317LXC</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_63@I went to a dermatologist, he said it was nothing of concern - was not melanoma. He asked us to wait a few more weeks and take pictures of it with a ruler beside it to measure the size of it to see if anything is different. </text>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:37:16Z</infon>
+        <location offset="87" length="8"/>
+        <text>melanoma</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:37:32Z</infon>
+        <location offset="196" length="4"/>
+        <text>size</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>240</offset>
+      <text>Surprisingly, after a few months (maybe 3 or 5 months i cant recall), the thing slowly shifted up and up until it reached the white part of the toenail where i eventually clip it off just like when we normally trim our toenails 😊</text>
+      <annotation id="3">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:38:05Z</infon>
+        <location offset="384" length="7"/>
+        <text>toenail</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>472</offset>
+      <text>*The doctor did not give me any medication nor did i take any medication or oilment, it just went away naturally..</text>
+    </passage>
+    <passage>
+      <offset>586</offset>
+      <text>Well i guess i did hit something 🤷 or smth i cant rmb</text>
+    </passage>
+    <passage>
+      <offset>642</offset>
+      <text>Anyways, hope this was helpful and I hope u and your bf dont stress too much, if it helps you can always ask a dermatologist but if not, at least wait 1 or 2 months with pictures taken of it (with a ruler) to see if anything is happening to it. Though, since your bf does has 2 of the spots, imo i would just seek a dermatologist</text>
+    </passage>
+  </document>
+</collection>

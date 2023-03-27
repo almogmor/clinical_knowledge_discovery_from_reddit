@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315DUI</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_43@My brother 63 was just diagnosed with aggressive prostate cancer with metastasizes to bones. He was going to have prostate removed but surgery was canceled due to not helping at this point. He does not have another doctor visit to explain a treatment plan til the end of August. </text>
+      <annotation id="1">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:26:11Z</infon>
+        <location offset="24" length="2"/>
+        <text>63</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:27:17Z</infon>
+        <location offset="51" length="10"/>
+        <text>aggressive</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:26:34Z</infon>
+        <location offset="62" length="15"/>
+        <text>prostate cancer</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:17:37Z</infon>
+        <infon key="error:misaligned:10">82-&gt;83</infon>
+        <location offset="83" length="12"/>
+        <text>metastasizes</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:17:37Z</infon>
+        <location offset="83" length="21"/>
+        <text>metastasizes to bones</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:17:49Z</infon>
+        <location offset="83" length="12"/>
+        <text>metastasizes</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:27:17Z</infon>
+        <location offset="127" length="16"/>
+        <text>prostate removed</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:27:22Z</infon>
+        <location offset="148" length="7"/>
+        <text>surgery</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>292</offset>
+      <text>I wanted to know if you all had any idea what he is up against. Looking on the internet is scary and not sure if accurate. </text>
+      <annotation id="12">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:18:08Z</infon>
+        <location offset="383" length="5"/>
+        <text>scary</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>415</offset>
+      <text>What is his prognosis?</text>
+    </passage>
+    <passage>
+      <offset>437</offset>
+      <text>Will he have hormone therapy?</text>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:28:25Z</infon>
+        <location offset="450" length="15"/>
+        <text>hormone therapy</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>466</offset>
+      <text>Radiation?</text>
+    </passage>
+    <passage>
+      <offset>476</offset>
+      <text>No pain now , will he later?</text>
+      <annotation id="7">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:28:35Z</infon>
+        <location offset="479" length="4"/>
+        <text>pain</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>504</offset>
+      <text>He is so scared.</text>
+      <annotation id="8">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:28:45Z</infon>
+        <location offset="513" length="6"/>
+        <text>scared</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317HNP</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_68@You're welcome. I don't know if anyone gets that but I think the possibility is pretty high. Breast Cancer sucks!! 🥺</text>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:35:04Z</infon>
+        <location offset="109" length="13"/>
+        <text>Breast Cancer</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:35:04Z</infon>
+        <location offset="109" length="6"/>
+        <text>Breast</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:35:11Z</infon>
+        <infon key="error:misaligned:3">115-&gt;116</infon>
+        <location offset="116" length="6"/>
+        <text>Cancer</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

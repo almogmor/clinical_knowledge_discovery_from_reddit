@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315BUX</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_45@Did you get a chop before chemo? I’m getting a haircut today and nervous. Going from hair that lands right around my shoulder blades (or mid chest), and planning for a chin length bob.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:22:14Z</infon>
+        <location offset="39" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:15:03Z</infon>
+        <location offset="78" length="7"/>
+        <text>nervous</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>199</offset>
+      <text>I am telling myself this will make it easier, to give up my hair in increments. But it also feels like chipping away at myself, and I want to hold on as long as a can.</text>
+    </passage>
+    <passage>
+      <offset>366</offset>
+      <text>I’ve heard about cold-capping, but with 16 sessions of chemo I’m guessing my hair will still fall out. And I reas cold capping has a 17% success rate. My oncologist said I would definitely have two side effects- 1) hair loss, 2) fatigue.</text>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:23:05Z</infon>
+        <location offset="421" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:23:30Z</infon>
+        <location offset="581" length="9"/>
+        <text>hair loss</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:23:33Z</infon>
+        <location offset="595" length="7"/>
+        <text>fatigue</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>607</offset>
+      <text>Did you get the chop? How did you cope with hair loss?</text>
+    </passage>
+  </document>
+</collection>

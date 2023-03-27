@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041757RJH</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_120@Hello, I had an ultrasound done and they found 6 nodules on right side. My doctor still has to contact me about the next steps. I have the feeling of food being stuck, sometimes it feels like I am choking. How can a deal with this? Should I go to emergency?</text>
+      <annotation id="1">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:03:47Z</infon>
+        <location offset="30" length="10"/>
+        <text>ultrasound</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:03:56Z</infon>
+        <location offset="63" length="7"/>
+        <text>nodules</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

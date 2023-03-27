@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041757USP</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_115@Age 28, IDC, triple positive, stage 1; completed 4 rounds of THP per the compass trial. </text>
+      <annotation id="1">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:11:13Z</infon>
+        <location offset="44" length="7"/>
+        <text>stage 1</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:11:26Z</infon>
+        <location offset="63" length="15"/>
+        <text>4 rounds of THP</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:11:26Z</infon>
+        <location offset="75" length="3"/>
+        <text>THP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>102</offset>
+      <text>I just had a nipple sparing double mastectomy with reconstruction (tissue expanders) on Monday and recovery has not been the easiest. I did not expect to get a complete response at all, so I was shocked to tears when I got the call from my doctor this week—no more cancer! </text>
+      <annotation id="6">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:12:22Z</infon>
+        <infon key="error:misaligned:6">114-&gt;115</infon>
+        <location offset="115" length="6"/>
+        <text>nipple</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:12:03Z</infon>
+        <location offset="115" length="32"/>
+        <text>nipple sparing double mastectomy</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:12:03Z</infon>
+        <infon key="error:misaligned:5">136-&gt;137</infon>
+        <location offset="137" length="10"/>
+        <text>mastectomy</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:12:53Z</infon>
+        <location offset="153" length="14"/>
+        <text>reconstruction</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:12:57Z</infon>
+        <location offset="169" length="16"/>
+        <text>tissue expanders</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:13:18Z</infon>
+        <location offset="367" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>377</offset>
+      <text>I wanted to share mostly because I was really put off by my MRI results—MRI showed the tumor had shrunk from 3.4cm to 2.4cm. Even though my doctors all said a complete response was still possible, it sounded like fairy tale talk to me. But I did it!</text>
+      <annotation id="10">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:13:33Z</infon>
+        <location offset="437" length="3"/>
+        <text>MRI</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:13:35Z</infon>
+        <location offset="449" length="3"/>
+        <text>MRI</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:13:43Z</infon>
+        <location offset="464" length="5"/>
+        <text>tumor</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:13:53Z</infon>
+        <location offset="474" length="6"/>
+        <text>shrunk</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:13:55Z</infon>
+        <location offset="486" length="5"/>
+        <text>3.4cm</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:13:57Z</infon>
+        <location offset="495" length="5"/>
+        <text>2.4cm</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

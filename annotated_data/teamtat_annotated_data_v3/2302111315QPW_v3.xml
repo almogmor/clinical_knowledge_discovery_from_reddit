@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315QPW</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_70@The time has come.  I start chemo next week.  I am super nervous yet I am ready to get this part of my journey started.  I have 4 cycles of AC two weeks apart and then I start my 12 weekly cycles of Taxol.  </text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:58:27Z</infon>
+        <location offset="41" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:58:32Z</infon>
+        <location offset="70" length="7"/>
+        <text>nervous</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:58:47Z</infon>
+        <location offset="141" length="14"/>
+        <text>4 cycles of AC</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:58:47Z</infon>
+        <location offset="153" length="2"/>
+        <text>AC</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:58:53Z</infon>
+        <location offset="212" length="5"/>
+        <text>Taxol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>220</offset>
+      <text>I am looking for recommendations for when I start from any of my ladies who have been through it.  Is there anything you wish you would have known, anything you think is a good purchase during this time? </text>
+    </passage>
+    <passage>
+      <offset>424</offset>
+      <text>I know I will need hats/wigs(the hair loss is the scariest most devastating part for me) apparently Amazon sells fake eyelashes, and eyebrows.  I’m very feminine and this will be the hardest part for me.  I know that may seem dense, but it is a lot for me.  </text>
+    </passage>
+    <passage>
+      <offset>684</offset>
+      <text>I don’t personally know anyone who has been through the same treatment I am going to go through so I figured I would ask the veterans for some help so I can get some things together for myself before I start. </text>
+    </passage>
+    <passage>
+      <offset>895</offset>
+      <text>Thank you In advance ladies.</text>
+    </passage>
+  </document>
+</collection>

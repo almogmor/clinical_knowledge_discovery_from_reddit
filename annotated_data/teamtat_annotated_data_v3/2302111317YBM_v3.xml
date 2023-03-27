@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317YBM</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_40@You’re welcome I was put on prednisone after radiation until the inflammation went away.  I saw someone else say they may refer you to a pulmonary doctor and I didn’t think to say that. I do have a pulmonologist now. I wish you luck on your journey and hope you feel better soon. Stress seems to make all our symptoms worse.  Hugs sent to you.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:28:43Z</infon>
+        <location offset="44" length="10"/>
+        <text>prednisone</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:28:55Z</infon>
+        <location offset="61" length="9"/>
+        <text>radiation</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:29:33Z</infon>
+        <location offset="81" length="12"/>
+        <text>inflammation</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:56:06Z</infon>
+        <location offset="153" length="9"/>
+        <text>pulmonary</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:30:54Z</infon>
+        <location offset="214" length="13"/>
+        <text>pulmonologist</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:56:24Z</infon>
+        <location offset="296" length="6"/>
+        <text>Stress</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

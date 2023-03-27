@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317NAD</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_54@I have had one Keytruda alone infusion and the only thing I noticed was being a little tired the day of and the day after. After that, I perked back up and haven’t noticed anything more.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:08:31Z</infon>
+        <location offset="31" length="8"/>
+        <text>Keytruda</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:08:37Z</infon>
+        <location offset="103" length="5"/>
+        <text>tired</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

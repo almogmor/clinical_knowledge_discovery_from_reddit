@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317DKO</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_95@I had that surgery last October. I was able to walk around the hospital some that same day. I didn’t have any complications, and my pain was easily controlled with Tylenol. Physically, it was much “easier” than I expected. I followed all of the rules and did my post-op exercises religiously. I preserved most of my range of motion and have had no problems at all.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T12:56:48Z</infon>
+        <location offset="27" length="7"/>
+        <text>surgery</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T12:56:58Z</infon>
+        <location offset="148" length="4"/>
+        <text>pain</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T12:57:20Z</infon>
+        <location offset="180" length="7"/>
+        <text>Tylenol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>386</offset>
+      <text>The biggest difficulty for me was that I had been so driven to get the cancer cut out of me that I didn’t stop to prepare for the mental/emotional trauma of having body parts amputated. (Can someone be prepared for that?? I don’t know.) I didn’t want to look at it for several days. I couldn’t face it. My spouse was willing to suck it up and be brave when I couldn’t, and helped with my drains and everything. Your partner may not want you to do that, but that was something that I needed and that made me feel supported. I highly recommend offering to help with anything and everything that you CAN help with, and respecting and accepting it if she doesn’t want it or need it. My husband was really specific when he offered help. He didn’t ask if I “needed anything”, he offered to help me empty my drains, to check my incisions, etc. That made everything *my* decision and respected *my* comfort level, but didn’t overwhelm me, which was extremely helpful.</text>
+      <annotation id="4">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T12:58:20Z</infon>
+        <location offset="457" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T12:58:50Z</infon>
+        <location offset="516" length="6"/>
+        <text>mental</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T12:59:36Z</infon>
+        <location offset="523" length="9"/>
+        <text>emotional</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T13:01:04Z</infon>
+        <location offset="523" length="16"/>
+        <text>emotional trauma</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T13:01:19Z</infon>
+        <location offset="533" length="6"/>
+        <text>trauma</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T13:02:47Z</infon>
+        <location offset="550" length="20"/>
+        <text>body parts amputated</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T13:04:07Z</infon>
+        <location offset="671" length="16"/>
+        <text>couldn’t face it</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T13:07:52Z</infon>
+        <location offset="774" length="6"/>
+        <text>drains</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T13:05:41Z</infon>
+        <location offset="893" length="14"/>
+        <text>feel supported</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T13:07:09Z</infon>
+        <location offset="1187" length="6"/>
+        <text>drains</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">OTHER_RELEVANT</infon>
+        <infon key="identifier">OTHER:SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T13:08:31Z</infon>
+        <location offset="1207" length="9"/>
+        <text>incisions</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T13:09:01Z</infon>
+        <location offset="1277" length="13"/>
+        <text>comfort level</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

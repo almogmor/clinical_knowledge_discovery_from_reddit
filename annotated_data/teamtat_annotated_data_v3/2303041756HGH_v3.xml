@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756HGH</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_130@If you don’t mind me asking, did you ever take hormonal birth control? My grandma was recently diagnosed, and this was the very first question her oncologist asked her.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:49:57Z</infon>
+        <location offset="64" length="22"/>
+        <text>hormonal birth control</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:50:05Z</infon>
+        <location offset="112" length="9"/>
+        <text>diagnosed</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

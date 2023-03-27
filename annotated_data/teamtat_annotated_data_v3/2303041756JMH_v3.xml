@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756JMH</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_117@Please open the doors for ketamine to be used under less restrictive conditions. Some people are lucky enough to get ketamine nasal spray for home use cool compounding pharmacies. Unfortunately, most doctors willing to do that probably work at expensive ketamine clinics where that is all they do. Basically a pill mill for legal ketamine. But it's gonna cost you over $500 per infusion.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:00:36Z</infon>
+        <location offset="43" length="8"/>
+        <text>ketamine</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:00:57Z</infon>
+        <infon key="error:misaligned:3">133-&gt;134</infon>
+        <location offset="134" length="20"/>
+        <text>ketamine nasal spray</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:00:57Z</infon>
+        <location offset="134" length="8"/>
+        <text>ketamine</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:01:11Z</infon>
+        <location offset="271" length="8"/>
+        <text>ketamine</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:01:20Z</infon>
+        <location offset="347" length="8"/>
+        <text>ketamine</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:01:27Z</infon>
+        <location offset="395" length="8"/>
+        <text>infusion</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

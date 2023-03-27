@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317YIF</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_15@In most cases, once the thyroid nodules are big enough to cause airway or food pipe compression and makes breathing or eating very difficult, the next step is surgically removing nodules or one thyroid lobe. </text>
+      <annotation id="8">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:24:43Z</infon>
+        <infon key="error:misaligned:8">39-&gt;40</infon>
+        <location offset="40" length="7"/>
+        <text>thyroid</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-03-11T18:24:43Z</infon>
+        <location offset="40" length="15"/>
+        <text>thyroid nodules</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:25:05Z</infon>
+        <infon key="error:misaligned:9">89-&gt;90</infon>
+        <location offset="90" length="21"/>
+        <text>food pipe compression</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-03-11T18:25:05Z</infon>
+        <location offset="100" length="11"/>
+        <text>compression</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:55:53Z</infon>
+        <location offset="135" length="21"/>
+        <text>eating very difficult</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:56:31Z</infon>
+        <location offset="175" length="10"/>
+        <text>surgically</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:25:22Z</infon>
+        <location offset="195" length="7"/>
+        <text>nodules</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:25:49Z</infon>
+        <location offset="210" length="7"/>
+        <text>thyroid</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:25:49Z</infon>
+        <location offset="210" length="12"/>
+        <text>thyroid lobe</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>224</offset>
+      <text>Since the big nodules physically displace and bend the trachea or food pipe, medicines don't help much. Surgery is usually recommended, like hemithyroidectomy (half the thyroid)</text>
+      <annotation id="13">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:25:57Z</infon>
+        <location offset="238" length="7"/>
+        <text>nodules</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:26:33Z</infon>
+        <location offset="279" length="7"/>
+        <text>trachea</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:57:02Z</infon>
+        <location offset="328" length="7"/>
+        <text>Surgery</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:57:42Z</infon>
+        <location offset="365" length="17"/>
+        <text>hemithyroidectomy</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:26:55Z</infon>
+        <location offset="384" length="16"/>
+        <text>half the thyroid</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:26:55Z</infon>
+        <location offset="393" length="7"/>
+        <text>thyroid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>401</offset>
+      <text>Your doctor might refer you to get the nodules biopsied. And then refer you to a surgeon.</text>
+      <annotation id="7">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:58:09Z</infon>
+        <location offset="440" length="16"/>
+        <text>nodules biopsied</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

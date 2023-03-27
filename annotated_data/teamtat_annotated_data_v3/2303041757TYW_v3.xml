@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041757TYW</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_132@I'm getting my stem cells removed this Tuesday and reinfused in a couple weeks.</text>
+      <annotation id="1">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:17:16Z</infon>
+        <location offset="29" length="10"/>
+        <text>stem cells</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:14:11Z</infon>
+        <location offset="29" length="18"/>
+        <text>stem cells removed</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:16:51Z</infon>
+        <location offset="65" length="9"/>
+        <text>reinfused</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>93</offset>
+      <text>I'm HORRIFIED. My anxiety is telling me this won't work. I'm scared of the procedure, that it's gonna knock me out harder than the chemos have so far and that I won't be able to take it...</text>
+      <annotation id="4">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:17:02Z</infon>
+        <location offset="111" length="7"/>
+        <text>anxiety</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:18:32Z</infon>
+        <location offset="154" length="6"/>
+        <text>scared</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:18:48Z</infon>
+        <location offset="224" length="6"/>
+        <text>chemos</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>281</offset>
+      <text>But I'm even more afraid of the outcome. My cancer has regrown twice now and I'm so afraid that I'm doomed for the rest of my life.</text>
+      <annotation id="7">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:19:36Z</infon>
+        <location offset="325" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:23:40Z</infon>
+        <location offset="365" length="6"/>
+        <text>afraid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>412</offset>
+      <text>I fear that even if this transplant is successful, it'll be fleeting and I'll be right back here again in another couple of years.</text>
+      <annotation id="9">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:24:05Z</infon>
+        <location offset="437" length="10"/>
+        <text>transplant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>542</offset>
+      <text>I really just need to hear something good right now because I am all consumed by scary statistics and failed testimonies.</text>
+      <annotation id="10">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:24:37Z</infon>
+        <location offset="623" length="5"/>
+        <text>scary</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

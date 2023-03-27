@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317XJU</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_26@Hi I’m 42, triple positive IDC, 5cm lump. What chemo did you do and did it make you really sick and tired and did your hair fall out? I have my oncologist appt tomorrow so I don’t know what’s recommended for me yet.</text>
+      <annotation id="1">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T16:44:07Z</infon>
+        <location offset="23" length="2"/>
+        <text>42</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T16:45:04Z</infon>
+        <location offset="43" length="3"/>
+        <text>IDC</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:09:51Z</infon>
+        <location offset="48" length="3"/>
+        <text>5cm</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:09:51Z</infon>
+        <location offset="48" length="8"/>
+        <text>5cm lump</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:09:51Z</infon>
+        <location offset="52" length="4"/>
+        <text>lump</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T16:45:35Z</infon>
+        <location offset="63" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T16:45:42Z</infon>
+        <location offset="116" length="5"/>
+        <text>tired</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T16:45:47Z</infon>
+        <location offset="135" length="9"/>
+        <text>hair fall</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

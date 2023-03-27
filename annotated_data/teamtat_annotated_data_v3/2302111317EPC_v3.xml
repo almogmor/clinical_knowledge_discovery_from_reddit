@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317EPC</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_93@You're exactly right, part of us dies when we go through cancer.</text>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T13:09:26Z</infon>
+        <location offset="73" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

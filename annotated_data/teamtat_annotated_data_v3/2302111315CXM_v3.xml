@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315CXM</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_18@ whatever the tumor, whether it's glioblastoma, low-grade astrocytoma, meningioma. Is it feasible having the disease to be able to do sports? I have hate stories of people with tumors winning ultramans. But I don't know how true it is. I wanted to consult with you who are people of flesh and blood. Do you believe that playing sports has a beneficial effect on tumors?</text>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:46:15Z</infon>
+        <location offset="27" length="5"/>
+        <text>tumor</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:47:01Z</infon>
+        <location offset="47" length="12"/>
+        <text>glioblastoma</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:39:00Z</infon>
+        <location offset="61" length="9"/>
+        <text>low-grade</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:47:46Z</infon>
+        <location offset="71" length="11"/>
+        <text>astrocytoma</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:48:07Z</infon>
+        <location offset="84" length="10"/>
+        <text>meningioma</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:48:29Z</infon>
+        <location offset="190" length="6"/>
+        <text>tumors</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:49:03Z</infon>
+        <location offset="375" length="6"/>
+        <text>tumors</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

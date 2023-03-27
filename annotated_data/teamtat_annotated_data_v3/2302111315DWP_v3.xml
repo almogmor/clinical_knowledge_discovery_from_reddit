@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315DWP</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_5@before surgery, having a scar was one of my biggest concerns and I was booked to have the scarless surgery through the armpit. even after surgery, it was so raw and red looking, i thought i was hideous. I’ve been looking after my scar everyday now and it’s still there, very visible. It’s been healing well, and I found myself actually getting sad that it’s not as noticeable now as it’s starting to fade a little, which is so strange. </text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:50:11Z</infon>
+        <location offset="19" length="7"/>
+        <text>surgery</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:50:20Z</infon>
+        <location offset="102" length="16"/>
+        <text>scarless surgery</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:50:39Z</infon>
+        <location offset="150" length="7"/>
+        <text>surgery</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>458</offset>
+      <text>I’ve come to love the way it looks, like a battle scar except it’s on your neck so it looks absolutely badass and people will have different interpretations in their heads how it happened (which makes me look more badass). I don’t know. I like it now. :)</text>
+    </passage>
+  </document>
+</collection>

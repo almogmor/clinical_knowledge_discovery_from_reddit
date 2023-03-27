@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317RZX</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_20@There’s a pinch as they stick the port. My infusion center had a numbing spray, but I also had Rx lidocaine cream to put on beforehand.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:51:24Z</infon>
+        <location offset="59" length="8"/>
+        <text>infusion</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:51:39Z</infon>
+        <location offset="81" length="13"/>
+        <text>numbing spray</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:51:53Z</infon>
+        <location offset="111" length="18"/>
+        <text>Rx lidocaine cream</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315LCJ</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_63@Im 18 this year and Im Asian. Really cant remember when the black spot started growing or appeared there or something but maybe a few weeks? or at least more than a month already. Mom says maybe it was just a bruise, don't remember hitting my big toe anywhere, does not hurt as well. Pic taken on 11/3/2021.  Any thoughts?</text>
+      <annotation id="1">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T18:59:50Z</infon>
+        <location offset="73" length="10"/>
+        <text>black spot</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>335</offset>
+      <text>https://preview.redd.it/gkz17mgm9dm61.jpg?width=1600&amp;format=pjpg&amp;auto=webp&amp;s=8bd553d6668419ecfb76d4ddf810b327159a0f4b</text>
+    </passage>
+    <passage>
+      <offset>452</offset>
+      <text>https://preview.redd.it/d8gbnpgm9dm61.jpg?width=1600&amp;format=pjpg&amp;auto=webp&amp;s=a0c390751b79433deba5fc00c18e6454f791013c</text>
+    </passage>
+    <passage>
+      <offset>569</offset>
+      <text>https://preview.redd.it/bhsa8ugm9dm61.jpg?width=1200&amp;format=pjpg&amp;auto=webp&amp;s=fe3dd7e3eabf8f08330609abfebbd8764dab19f8</text>
+    </passage>
+  </document>
+</collection>

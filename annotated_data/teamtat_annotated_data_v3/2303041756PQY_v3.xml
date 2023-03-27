@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756PQY</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_128@When the time came, I just went for a messy sort of pixie cut. It was a big change but I knew I wouldn’t be able to cope with my mid-length hair falling out everywhere and I had enough length to make a good donation to wigs for kids. It was crazy to watch the stylist chop off my pigtails but also kind of freeing, I have to admit. </text>
+    </passage>
+    <passage>
+      <offset>351</offset>
+      <text>I ended up really liking it! It was a much-needed change I guess, though it only lasted for a couple weeks or so before things got real.</text>
+    </passage>
+    <passage>
+      <offset>487</offset>
+      <text>I hope I can go back to rocking that style again once this is all through! The hair loss is a scary and uncomfortable prospect to face, but I do try to look at it as a temporary state and in the meantime jazz up the look a bit with different caps and accessories.</text>
+      <annotation id="1">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:51:48Z</infon>
+        <location offset="566" length="9"/>
+        <text>hair loss</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:51:54Z</infon>
+        <location offset="581" length="5"/>
+        <text>scary</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317ZBC</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_36@**READ THE RULES** /u/ilovemushiessontoast. Not just here but everywhere you go. All communities, be they churches, schools or subreddits have rules. This subreddit is no different. </text>
+    </passage>
+    <passage>
+      <offset>198</offset>
+      <text>We display the rules clearly wherever we can and it is expected that new participants in the community will follow the rules. Most people manage this and as such there is little tolerance for those who make extra work by being incapable. </text>
+    </passage>
+    <passage>
+      <offset>436</offset>
+      <text>For the future, when you join a community **you** should make a special effort to find and read the rules because I guarantee that they exist and they will make your integration into the community smoother and your participation more enjoyable. </text>
+    </passage>
+    <passage>
+      <offset>681</offset>
+      <text>your submission appears to be too short (less than 351 characters), so please find and read the subreddit rules, check out our Wiki pages on [**common drugs**](/r/Drugs/wiki/drugs) and the [**drug knowledge base**](/r/Drugs/wiki/knowledgebase) or use the search option.</text>
+    </passage>
+    <passage>
+      <offset>950</offset>
+      <text>You will receive a 3 year ban for breaking or trying to evade this rule. Unfortunately if you are not able to locate the rules then you will be permanently banned until you can message us with a link to the rules page. This is likely to require you to use a desktop computer. </text>
+    </passage>
+    <passage>
+      <offset>1226</offset>
+      <text>*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DrugNerds) if you have any questions or concerns.*</text>
+    </passage>
+  </document>
+</collection>

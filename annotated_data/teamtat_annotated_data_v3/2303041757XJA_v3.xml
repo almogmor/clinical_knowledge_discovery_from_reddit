@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041757XJA</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_112@I'm getting my stem cells removed this Tuesday and reinfused in a couple weeks.</text>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:21:22Z</infon>
+        <infon key="error:misaligned:7">28-&gt;29</infon>
+        <location offset="29" length="18"/>
+        <text>stem cells removed</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:19:29Z</infon>
+        <location offset="29" length="18"/>
+        <text>stem cells removed</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:19:29Z</infon>
+        <location offset="29" length="10"/>
+        <text>stem cells</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>93</offset>
+      <text>I'm HORRIFIED. My anxiety is telling me this won't work. I'm scared of the procedure, that it's gonna knock me out harder than the chemos have so far and that I won't be able to take it...</text>
+      <annotation id="3">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:20:04Z</infon>
+        <location offset="111" length="7"/>
+        <text>anxiety</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:20:35Z</infon>
+        <location offset="224" length="6"/>
+        <text>chemos</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>281</offset>
+      <text>But I'm even more afraid of the outcome. My cancer has regrown twice now and I'm so afraid that I'm doomed for the rest of my life.</text>
+      <annotation id="5">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:20:48Z</infon>
+        <location offset="325" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>412</offset>
+      <text>I fear that even if this transplant is successful, it'll be fleeting and I'll be right back here again in another couple of years.</text>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:21:08Z</infon>
+        <location offset="437" length="10"/>
+        <text>transplant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>542</offset>
+      <text>I really just need to hear something good right now because I am all consumed by scary statistics and failed testimonies.</text>
+      <annotation id="8">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:21:39Z</infon>
+        <location offset="623" length="5"/>
+        <text>scary</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

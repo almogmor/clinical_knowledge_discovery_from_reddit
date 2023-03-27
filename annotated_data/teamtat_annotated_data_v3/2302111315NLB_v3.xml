@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315NLB</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_3@My dad was diagnosed with a brain tumour about 3 months ago. It’s been very challenging as we still don’t know if it’s benign or malignant. We live in Canada and the health care system here (although free of cost) is very very slow. Wait time for appointments are 1-2 months to see a specialist. He finally saw an endocrinologist, and has to get over 30 hormone tests. The results of which won’t be available for another 3 months and we’re struggling to find a hospital to conduct some of them, since it’s so rare. I feel like with the waiting time, we’re loosing time and the tumour could be spreading. Has anyone else gone through this? How long did you have to wait to find out if it was actually cancer?? </text>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:00:01Z</infon>
+        <location offset="40" length="12"/>
+        <text>brain tumour</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T17:54:32Z</infon>
+        <location offset="131" length="6"/>
+        <text>benign</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T17:54:57Z</infon>
+        <location offset="141" length="9"/>
+        <text>malignant</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T17:55:28Z</infon>
+        <location offset="155" length="14"/>
+        <text>live in Canada</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T17:56:07Z</infon>
+        <location offset="366" length="13"/>
+        <text>hormone tests</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T17:59:11Z</infon>
+        <location offset="562" length="18"/>
+        <text>we’re loosing time</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:00:08Z</infon>
+        <location offset="589" length="6"/>
+        <text>tumour</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:00:29Z</infon>
+        <location offset="712" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>735</offset>
+      <text>For background info: he’s in his 60s , tumour is 2cm at time of diagnosis. We found out about the tumour since he woke up with a paralyzed arm one morning and had to be taken to emergency. It was a temporary thing, his arm is back to normal. The tumour is near his optical nerve .</text>
+      <annotation id="9">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:00:50Z</infon>
+        <location offset="768" length="3"/>
+        <text>60s</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:01:02Z</infon>
+        <location offset="774" length="6"/>
+        <text>tumour</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:01:15Z</infon>
+        <location offset="784" length="3"/>
+        <text>2cm</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:01:30Z</infon>
+        <location offset="833" length="6"/>
+        <text>tumour</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:02:09Z</infon>
+        <location offset="864" length="13"/>
+        <text>paralyzed arm</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:02:58Z</infon>
+        <location offset="981" length="6"/>
+        <text>tumour</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:47:48Z</infon>
+        <location offset="1000" length="13"/>
+        <text>optical nerve</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

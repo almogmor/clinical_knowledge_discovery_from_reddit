@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315IDS</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_98@My brother has been diagnosed with stage 4 Non-Hodgkin’s Lymphoma (DLBCL) last August, we have been through several treatments and nothing worked and now we are in the final few days of his life, according to the doctor.</text>
+      <annotation id="1">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:09:45Z</infon>
+        <location offset="48" length="7"/>
+        <text>stage 4</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:10:09Z</infon>
+        <location offset="56" length="22"/>
+        <text>Non-Hodgkin’s Lymphoma</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:10:41Z</infon>
+        <location offset="80" length="5"/>
+        <text>DLBCL</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>235</offset>
+      <text>I have been sleeping at the hospital this past week and I am very stressed and scared. I feel physically, mentally and emotionally weak. He doesn’t know that his days are counted, he seems to have a feeling, but still has hope.</text>
+      <annotation id="4">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:11:05Z</infon>
+        <location offset="301" length="8"/>
+        <text>stressed</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:11:16Z</infon>
+        <location offset="314" length="6"/>
+        <text>scared</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:11:29Z</infon>
+        <location offset="366" length="4"/>
+        <text>weak</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>464</offset>
+      <text>The cancer is growing in his bowel and it can perforate at any moment. I am afraid of how things will be and wether he will be in extreme pain. I want to be with him, but I can’t imagine myself being present in that moment and I don’t know what to do.</text>
+      <annotation id="7">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:11:50Z</infon>
+        <location offset="468" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">OTHER_RELEVANT</infon>
+        <infon key="identifier">OTHER:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:12:28Z</infon>
+        <location offset="493" length="5"/>
+        <text>bowel</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:12:32Z</infon>
+        <location offset="602" length="4"/>
+        <text>pain</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

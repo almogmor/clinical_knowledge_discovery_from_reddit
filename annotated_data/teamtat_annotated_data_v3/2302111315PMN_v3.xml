@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315PMN</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_1@I’m so angry right now. My first mammo showed a distortion and they told me to come back in 6 months for more imaging to see if there were any changes. At that follow up, I was biopsied and diagnosed with IDC with lobular as well. I was repeatedly told everything was very early, my lymph node biopsy was negative. </text>
+      <annotation id="19">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:48:45Z</infon>
+        <location offset="19" length="5"/>
+        <text>angry</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:48:51Z</infon>
+        <location offset="45" length="5"/>
+        <text>mammo</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:49:01Z</infon>
+        <location offset="189" length="8"/>
+        <text>biopsied</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:49:03Z</infon>
+        <location offset="202" length="9"/>
+        <text>diagnosed</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:49:07Z</infon>
+        <location offset="217" length="3"/>
+        <text>IDC</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:49:09Z</infon>
+        <location offset="226" length="7"/>
+        <text>lobular</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:49:25Z</infon>
+        <location offset="295" length="10"/>
+        <text>lymph node</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:49:25Z</infon>
+        <location offset="295" length="17"/>
+        <text>lymph node biopsy</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:49:28Z</infon>
+        <infon key="error:misaligned:27">305-&gt;306</infon>
+        <location offset="306" length="6"/>
+        <text>biopsy</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>329</offset>
+      <text>At my lumpectomy, I had 9 lymph nodes removed. 4 tested positive for cancer. So now I have to do chemo and more radiation. </text>
+      <annotation id="28">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:49:36Z</infon>
+        <location offset="335" length="10"/>
+        <text>lumpectomy</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:49:51Z</infon>
+        <infon key="error:misaligned:30">354-&gt;355</infon>
+        <location offset="355" length="11"/>
+        <text>lymph nodes</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:49:51Z</infon>
+        <location offset="355" length="19"/>
+        <text>lymph nodes removed</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:49:55Z</infon>
+        <location offset="426" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:49:58Z</infon>
+        <location offset="441" length="9"/>
+        <text>radiation</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>452</offset>
+      <text>I can’t stop thinking about how if they’d give me a biopsy at my first mammo, they’d have caught it earlier and I wouldn’t be where I am now. I have no family history and no genetic markers for any cancer at all. I’m worried that cancer is in other lymph nodes that they didn’t get to remove and all the usual fears. </text>
+      <annotation id="33">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:50:18Z</infon>
+        <location offset="504" length="6"/>
+        <text>biopsy</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:50:20Z</infon>
+        <location offset="523" length="5"/>
+        <text>mammo</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:50:33Z</infon>
+        <location offset="682" length="5"/>
+        <text>cance</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:50:39Z</infon>
+        <location offset="701" length="11"/>
+        <text>lymph nodes</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>781</offset>
+      <text>That is all. I’m just so angry.</text>
+      <annotation id="37">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:50:54Z</infon>
+        <location offset="806" length="5"/>
+        <text>angry</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

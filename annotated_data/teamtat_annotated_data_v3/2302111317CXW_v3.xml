@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317CXW</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_85@I haven’t had either. The hypo fractionation would be a higher dose per day than the 6 week course. So either option should give you a similar radiobiological effect. </text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:24:57Z</infon>
+        <location offset="42" length="18"/>
+        <text>hypo fractionation</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:25:16Z</infon>
+        <location offset="159" length="22"/>
+        <text>radiobiological effect</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>185</offset>
+      <text>If you have to do breath-hold for your radiation, a shorter course might be more tolerable.</text>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:25:26Z</infon>
+        <location offset="224" length="9"/>
+        <text>radiation</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

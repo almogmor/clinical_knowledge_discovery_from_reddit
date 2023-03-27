@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315RAX</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_85@Would appreciate any feedback/experience of choosing between the 6 week radiation &amp; hypofractionation radiation.  </text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T18:36:39Z</infon>
+        <location offset="78" length="16"/>
+        <text>6 week radiation</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T18:36:49Z</infon>
+        <location offset="97" length="27"/>
+        <text>hypofractionation radiation</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>127</offset>
+      <text>Doc is not recommending one over the other.</text>
+    </passage>
+    <passage>
+      <offset>170</offset>
+      <text>I’ve only talked with people who’ve had the longer radiation &amp; say “I feel like they’re more likely to get all of it with the longer treatment”. </text>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T18:37:26Z</infon>
+        <location offset="214" length="16"/>
+        <text>longer radiation</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>325</offset>
+      <text>Anyone choose one over the other &amp; have regrets or druthers or happy with their choice? </text>
+    </passage>
+    <passage>
+      <offset>413</offset>
+      <text>stage 1 grade 2 left breast, had lumpectomy a month ago.</text>
+      <annotation id="4">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T18:38:51Z</infon>
+        <location offset="413" length="7"/>
+        <text>stage 1</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T18:39:02Z</infon>
+        <location offset="446" length="10"/>
+        <text>lumpectomy</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317NCA</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_35@Yes, 100%. I add 2 tbsp a day to my smoothie. Green tea is also estrogen blocking! I go to a naturopath and none of these things counteract conventional treatment. The only thing suggested to avoid is grapefruit because it can inhibit the body from ridding itself of estrogen or something (I don’t know the exact wording).</text>
+      <annotation id="1">
+        <infon key="type">OTHER_RELEVANT</infon>
+        <infon key="identifier">OTHER:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:34:53Z</infon>
+        <location offset="62" length="9"/>
+        <text>Green tea</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:00:20Z</infon>
+        <location offset="80" length="8"/>
+        <text>estrogen</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:36:57Z</infon>
+        <location offset="145" length="33"/>
+        <text>counteract conventional treatment</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:00:24Z</infon>
+        <location offset="283" length="8"/>
+        <text>estrogen</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

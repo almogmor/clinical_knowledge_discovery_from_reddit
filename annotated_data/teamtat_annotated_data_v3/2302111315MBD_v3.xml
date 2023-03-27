@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315MBD</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_74@For anyone who has had infusions of keytruda alone- how did you feel after infusions? Any side effects? I’m currently having keytruda+chemo but will be having keytruda alone after surgery.</text>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:56:57Z</infon>
+        <infon key="error:misaligned:7">35-&gt;36</infon>
+        <location offset="36" length="21"/>
+        <text>infusions of keytruda</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-03-11T18:56:38Z</infon>
+        <location offset="36" length="9"/>
+        <text>infusions</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:55:41Z</infon>
+        <location offset="138" length="8"/>
+        <text>keytruda</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:55:43Z</infon>
+        <location offset="147" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:55:47Z</infon>
+        <location offset="172" length="8"/>
+        <text>keytruda</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:55:50Z</infon>
+        <location offset="193" length="7"/>
+        <text>surgery</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>203</offset>
+      <text>Thanks in advance!</text>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041757HHW</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_118@My wife (51F) was diagnosed in March, Stage 3. Compared to the pain before diagnosis she feels amazing and is handling chemo Gemabrax side effects well. No hair, but I'm bald too, so we've owned it and often post pictures together - sometimes with me in crazy wigs she buys for a laugh. </text>
+      <annotation id="1">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:05:03Z</infon>
+        <location offset="23" length="3"/>
+        <text>51F</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:05:12Z</infon>
+        <location offset="52" length="7"/>
+        <text>Stage 3</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:05:23Z</infon>
+        <location offset="77" length="4"/>
+        <text>pain</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:05:31Z</infon>
+        <location offset="89" length="9"/>
+        <text>diagnosis</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:05:41Z</infon>
+        <location offset="133" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:06:56Z</infon>
+        <location offset="167" length="7"/>
+        <text>No hair</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>301</offset>
+      <text>We (she) do 3 weeks on 1 off.  We've both been amazed so far at the progress and have new scan results coming Tuesday.  We are ready for more good news.  </text>
+      <annotation id="7">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:07:31Z</infon>
+        <location offset="391" length="4"/>
+        <text>scan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>455</offset>
+      <text>It's working. It's possible. My wife is doing it. If fact, she'll don her rediculously big straw hat and sun clothes/sunscreen and we're going hiking today...again.</text>
+    </passage>
+    <passage>
+      <offset>619</offset>
+      <text>I met her when we were 14 and 15 years old and we've been married over 30 years. This was a hard diagnosis obviously - but one thing we noted on finding out was that whether in our 50s or our 80s... One of us will go down first. Neither of us will survive in the end. So what's the difference? Is more years always better or does it come down to quality over quantity? We believe quality wins.</text>
+      <annotation id="8">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:08:12Z</infon>
+        <location offset="652" length="9"/>
+        <text>years old</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:08:19Z</infon>
+        <location offset="716" length="9"/>
+        <text>diagnosis</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:08:32Z</infon>
+        <location offset="800" length="3"/>
+        <text>50s</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:08:34Z</infon>
+        <location offset="811" length="3"/>
+        <text>80s</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>1012</offset>
+      <text>We love reading stories here and appreciate you all sharing. We post here, elsewhere, and run a blog and post openly about the good and the bad - mainly because we have found so much value in reading OP stories. </text>
+    </passage>
+    <passage>
+      <offset>1224</offset>
+      <text>I'll share part of our mission as we see it: </text>
+    </passage>
+    <passage>
+      <offset>1269</offset>
+      <text>Be aggressively positive when it comes to PC. Stats be damned. Ditch the bad shit and surround ourselves with humans and animals that support us vs those who doubt. Breathe deep. Go calm. Step forward.  Tomorrow was never a guarantee anyway, and we're here today. Today has it's challenges, but we are focused, and smiling, and surrounded by love. Off we go to make our 'yesterdays' great.</text>
+    </passage>
+    <passage>
+      <offset>1658</offset>
+      <text>Have a strong week everyone, and we wish you all positive progress.</text>
+    </passage>
+  </document>
+</collection>

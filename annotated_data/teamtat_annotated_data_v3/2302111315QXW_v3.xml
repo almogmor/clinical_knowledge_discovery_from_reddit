@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315QXW</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_38@So with this last round of treatment, I'm experiencing neuropathy in my feet with sharp stabbing pains and numbness, also pain in the knees and legs.  Has anyone tried using compression socks to alleviate pain?</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:34:01Z</infon>
+        <location offset="68" length="10"/>
+        <text>neuropathy</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:32:41Z</infon>
+        <location offset="95" length="20"/>
+        <text>sharp stabbing pains</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:32:50Z</infon>
+        <location offset="120" length="8"/>
+        <text>numbness</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:33:03Z</infon>
+        <location offset="135" length="26"/>
+        <text>pain in the knees and legs</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:21:02Z</infon>
+        <location offset="187" length="17"/>
+        <text>compression socks</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:33:11Z</infon>
+        <location offset="218" length="4"/>
+        <text>pain</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

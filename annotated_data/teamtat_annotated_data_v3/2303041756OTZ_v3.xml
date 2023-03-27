@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756OTZ</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_148@Thank you so much for the suggestions. I’m so glad your surgery went well. I don’t think you can ever prepare for the potential mental toll that would take on any person. Sometimes the bravest thing is being able to ask for help. 💜</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:36:05Z</infon>
+        <location offset="73" length="7"/>
+        <text>surgery</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

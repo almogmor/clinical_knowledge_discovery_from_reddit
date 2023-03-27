@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111316WWT</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_11@I had a week between port and chemo start, and I appreciated the time to just process the one change before the next one started. I was sore a few days after the procedure. I was still very bruised around port when I started chemo but used lidocaine and didn’t feel anything. </text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T17:00:18Z</infon>
+        <location offset="46" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T17:00:56Z</infon>
+        <location offset="241" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T17:01:07Z</infon>
+        <location offset="256" length="9"/>
+        <text>lidocaine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>294</offset>
+      <text>I’m not on the team “love my port” but many weeks later, I never think about it and am glad it’s there on chemo days. Best of luck!</text>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T17:01:58Z</infon>
+        <location offset="400" length="5"/>
+        <text>chemo</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

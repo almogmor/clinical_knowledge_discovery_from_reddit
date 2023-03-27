@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317NXQ</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_43@I’m sorry your brother was diagnosed with this.   My 70 year old husband received the same diagnosis in June.   He received 2 Firmagon shots in the stomach as his first treatment and that lowered his PSA and stopped his pain.  He had his 3rd shot about a week ago.   They will be switching him to a Lupron shot every 6 months.  He will be starting another hormone pill after they get insurance approval and then chemo once his anemia is better…. Or he will need blood transfusions.        </text>
+      <annotation id="1">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:23:57Z</infon>
+        <location offset="69" length="11"/>
+        <text>70 year old</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:51:39Z</infon>
+        <location offset="107" length="9"/>
+        <text>diagnosis</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:24:53Z</infon>
+        <location offset="142" length="8"/>
+        <text>Firmagon</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:51:50Z</infon>
+        <location offset="164" length="7"/>
+        <text>stomach</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:25:28Z</infon>
+        <location offset="216" length="3"/>
+        <text>PSA</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:25:34Z</infon>
+        <location offset="236" length="4"/>
+        <text>pain</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:26:00Z</infon>
+        <location offset="315" length="6"/>
+        <text>Lupron</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:26:28Z</infon>
+        <location offset="372" length="12"/>
+        <text>hormone pill</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:26:42Z</infon>
+        <location offset="428" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:52:24Z</infon>
+        <location offset="443" length="6"/>
+        <text>anemia</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:52:36Z</infon>
+        <location offset="478" length="18"/>
+        <text>blood transfusions</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>509</offset>
+      <text>Maybe you can call the oncologist doctors office and ask to be put on the wait list for an earlier appointment??   Bring a list of questions with you!</text>
+    </passage>
+    <passage>
+      <offset>659</offset>
+      <text>My husband is scared also….they are trying to line up a therapist for him… and I’m looking for one for me too!</text>
+      <annotation id="8">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:27:14Z</infon>
+        <location offset="673" length="6"/>
+        <text>scared</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:52:56Z</infon>
+        <location offset="715" length="9"/>
+        <text>therapist</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>775</offset>
+      <text>You’ve found a great community here where you will get a lot of support!!!   Take things one day at a time!!</text>
+    </passage>
+    <passage>
+      <offset>885</offset>
+      <text>Sending you ((HUGS))</text>
+    </passage>
+  </document>
+</collection>

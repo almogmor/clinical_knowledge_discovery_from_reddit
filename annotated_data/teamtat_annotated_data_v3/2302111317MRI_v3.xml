@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317MRI</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_50@I started a month ago and am building up to the full dose…just doing half a pill right now. I was having hot flashes every 90 min or so but they seem to be easing up. Then last week I got very tired - not just low energy/fatigue but wanting to go back to bed and sleep tired. I was taking my half pill in the morning and change it to dinner time but it’s still not helping. </text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:12:12Z</infon>
+        <location offset="92" length="4"/>
+        <text>pill</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:12:39Z</infon>
+        <location offset="121" length="11"/>
+        <text>hot flashes</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:12:53Z</infon>
+        <location offset="172" length="9"/>
+        <text>easing up</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:13:07Z</infon>
+        <location offset="209" length="5"/>
+        <text>tired</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:13:16Z</infon>
+        <location offset="226" length="10"/>
+        <text>low energy</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:13:19Z</infon>
+        <location offset="237" length="7"/>
+        <text>fatigue</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:13:42Z</infon>
+        <location offset="313" length="4"/>
+        <text>pill</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>394</offset>
+      <text>I also feel spaced out and emotionally flat. The things that used to bring me joy (long nature walks) don’t interest me right now. I don’t see my oncologist for two more weeks and hope it gets better. I’m reluctant to increase the dose to a full one while I feel like this.</text>
+      <annotation id="8">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:14:55Z</infon>
+        <location offset="421" length="16"/>
+        <text>emotionally flat</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

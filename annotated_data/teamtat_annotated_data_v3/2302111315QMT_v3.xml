@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315QMT</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_79@For anyone who has had infusions of keytruda alone- how did you feel after infusions? Any side effects? I’m currently having keytruda+chemo but will be having keytruda alone after surgery.</text>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:54:15Z</infon>
+        <infon key="error:misaligned:2">35-&gt;36</infon>
+        <location offset="36" length="21"/>
+        <text>infusions of keytruda</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:54:15Z</infon>
+        <location offset="36" length="9"/>
+        <text>infusions</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:54:20Z</infon>
+        <location offset="88" length="10"/>
+        <text>infusions?</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:54:29Z</infon>
+        <infon key="error:misaligned:5">137-&gt;138</infon>
+        <location offset="138" length="8"/>
+        <text>keytruda</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:54:29Z</infon>
+        <location offset="138" length="14"/>
+        <text>keytruda+chemo</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:54:32Z</infon>
+        <location offset="147" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:54:37Z</infon>
+        <location offset="172" length="14"/>
+        <text>keytruda alone</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:54:41Z</infon>
+        <location offset="193" length="7"/>
+        <text>surgery</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>203</offset>
+      <text>Thanks in advance!</text>
+    </passage>
+  </document>
+</collection>

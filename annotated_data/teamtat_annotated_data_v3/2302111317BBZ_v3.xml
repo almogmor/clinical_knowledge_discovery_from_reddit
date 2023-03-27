@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317BBZ</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_27@Thanks for your response, it was very thoughtful. Having a kid of your own must add another element to all of this chaos that I can't even fathom yet. Unfortunately, I wonder If I'll ever even be able to have kids of my own after all this. </text>
+    </passage>
+    <passage>
+      <offset>256</offset>
+      <text>All that aside tho I will take your four questions into account and give it some thought.</text>
+    </passage>
+    <passage>
+      <offset>345</offset>
+      <text>These next few weeks are going to be hard. And I know for a fact I'm going to struggle with some really dark thoughts. But hopefully I'll remember what you've said and put my thoughts to work in some productive manor.</text>
+    </passage>
+    <passage>
+      <offset>562</offset>
+      <text>I hope this shit works. Not even just for my sake but my boyfriend who has every hope that it will. I've been let down before I'm almost used to this shit now, but it'd hurt extra hard to see him be let down.</text>
+    </passage>
+    <passage>
+      <offset>770</offset>
+      <text>Best of luck for you and your remission as well.</text>
+      <annotation id="1">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:09:26Z</infon>
+        <location offset="800" length="9"/>
+        <text>remission</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>818</offset>
+      <text>Cheers</text>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111316FIX</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_2@  I can definitely feel every word you said like you ah e wanted to say them for about a million years…. I think everyone on this forum can whether they are sick, or family members, friends…. We all knew our ticket was up when we first heard the news… remember all the things you said you would do? Realized who was there for you and who was using you? Reevaluated you values and what’s important to you?   </text>
+    </passage>
+    <passage>
+      <offset>430</offset>
+      <text>  If cancer does anything it shakes up whatever you though was important, things you used to stress about, and people you thought understood you? Do all that again and start over…. Review what really matters and try to keep your head up</text>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:00:32Z</infon>
+        <location offset="435" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

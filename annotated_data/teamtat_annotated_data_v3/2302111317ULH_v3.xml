@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317ULH</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_76@At first the Dr's thought it was undiagnosed strep throat. I had a sore throat and a lump on the side which he thought might be a swollen lymph.   They gave me antibiotics that didn't help so an onc was brought in which started the ball rolling with needle biopsy, PET scan etc.</text>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T15:44:33Z</infon>
+        <location offset="61" length="12"/>
+        <text>strep throat</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T15:43:17Z</infon>
+        <location offset="83" length="11"/>
+        <text>sore throat</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T15:43:50Z</infon>
+        <location offset="101" length="4"/>
+        <text>lump</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T17:44:54Z</infon>
+        <location offset="146" length="13"/>
+        <text>swollen lymph</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T15:44:11Z</infon>
+        <location offset="176" length="11"/>
+        <text>antibiotics</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T15:45:37Z</infon>
+        <location offset="273" length="6"/>
+        <text>biopsy</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T15:45:30Z</infon>
+        <location offset="281" length="8"/>
+        <text>PET scan</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315BVN</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_6@I'm getting my stem cells removed this Tuesday and reinfused in a couple weeks.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:04:03Z</infon>
+        <location offset="27" length="18"/>
+        <text>stem cells removed</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:04:16Z</infon>
+        <location offset="63" length="9"/>
+        <text>reinfused</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>91</offset>
+      <text>I'm HORRIFIED. My anxiety is telling me this won't work. I'm scared of the procedure, that it's gonna knock me out harder than the chemos have so far and that I won't be able to take it...</text>
+      <annotation id="3">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Maria Antoniak,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:04:31Z</infon>
+        <location offset="91" length="13"/>
+        <text>I'm HORRIFIED</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Maria Antoniak,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:04:39Z</infon>
+        <location offset="109" length="7"/>
+        <text>anxiety</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Maria Antoniak,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:05:15Z</infon>
+        <location offset="148" length="10"/>
+        <text>I'm scared</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:05:51Z</infon>
+        <location offset="222" length="6"/>
+        <text>chemos</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>279</offset>
+      <text>But I'm even more afraid of the outcome. My cancer has regrown twice now and I'm so afraid that I'm doomed for the rest of my life.</text>
+      <annotation id="7">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:09:37Z</infon>
+        <location offset="323" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Maria Antoniak,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:10:27Z</infon>
+        <location offset="334" length="13"/>
+        <text>regrown twice</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>410</offset>
+      <text>I fear that even if this transplant is successful, it'll be fleeting and I'll be right back here again in another couple of years.</text>
+      <annotation id="9">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:10:51Z</infon>
+        <location offset="435" length="10"/>
+        <text>transplant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>540</offset>
+      <text>I really just need to hear something good right now because I am all consumed by scary statistics and failed testimonies.</text>
+      <annotation id="10">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Maria Antoniak,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:11:36Z</infon>
+        <location offset="621" length="16"/>
+        <text>scary statistics</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

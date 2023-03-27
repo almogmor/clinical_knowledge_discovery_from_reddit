@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317VUF</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_60@This is all new, and all scary, and you're allowed to be overwhelmed. It sounds like your dad is going to handle this in his own, what sounds to be very mature, way. Unfortunately, this is not your tragedy alone - your father is the one with cancer. It helps to separate those feelings from him in order to help him, the patient, in his battle. Being the interpreter is very important, but you need to make sure you are calm and providing your father with all the information he needs to make the right decision for him. He may ask questions you wouldn't or make medical decisions you wouldn't - and that will always be his right, as hard as it is for you.</text>
+      <annotation id="1">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T16:01:28Z</infon>
+        <location offset="41" length="5"/>
+        <text>scary</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T16:01:54Z</infon>
+        <location offset="258" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>672</offset>
+      <text>Throw away every percentage and survival rate you read. They mean nothing for your father's individual case and will only serve to scare you. Even if your father is terminal, he is not leaving you today. Do not waste too many of the days you do have together upset over him being gone. If that is his path, then you will have plenty of days after his passing to process those feelings. Right now he wants to feel alive, with his family alongside him!</text>
+    </passage>
+    <passage>
+      <offset>1122</offset>
+      <text>I'm sorry is this comes off harsh, but it helps to compartmentalize and process the feelings of your father's health away from him. He needs the strength, love and compassion he has spent all these years providing his family, and you for sure have that ability within you. You say you don't want to face the truth, but you don't know what that is just yet. Breathe, cry, scream, find an outlet that helps you put one foot in front of the other. Cancer is capable of giving you the worst day of your life day after day, if you let it.</text>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T16:04:10Z</infon>
+        <location offset="1567" length="6"/>
+        <text>Cancer</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

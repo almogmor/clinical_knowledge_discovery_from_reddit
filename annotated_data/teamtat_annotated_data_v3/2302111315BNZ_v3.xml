@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315BNZ</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_24@Can anyone who has gone through this surgery already or a supporter of someone that has been there help give me some peace of mind that she will be ok? Or provide any tips to help get her through this? </text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:35:50Z</infon>
+        <location offset="50" length="7"/>
+        <text>surgery</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>215</offset>
+      <text>Even though she has a great team of doctors I have a feeling that tomorrow and Tuesday are going to be the longest days of our lives. She’s my whole world and if I could trade places with her I would.</text>
+    </passage>
+  </document>
+</collection>

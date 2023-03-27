@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756LLF</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_146@So sorry for your dad. Mine was 4cm and discovered after a seizure,  in canada also. Saw neurologist and neurosurgeon right after discovery then had it removed 10 days later.  I find it odd that he has to wait that long. But like some other comment said neuro told me it was probably growing for more then a decade too. Had to wait about 1 1/2 months to get pathology results though. I wish you all the best.</text>
+      <annotation id="1">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:17:56Z</infon>
+        <location offset="49" length="3"/>
+        <text>4cm</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:18:29Z</infon>
+        <location offset="169" length="7"/>
+        <text>removed</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:18:59Z</infon>
+        <location offset="375" length="9"/>
+        <text>pathology</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

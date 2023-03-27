@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315ANJ</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_94@uneven</text>
+    </passage>
+    <passage>
+      <offset>19</offset>
+      <text>36F, diagnosed with stage 0 dcis. My breast doctor says I need to have a mastectomy bc of my small breast size and large number of tumors. I am considering having a single mastectomy (instead of a double) and going aesthetically flat on the one side. I am worried about feeling uneven or awkward with only one external prosthetic. I don't want to regret only doing one side. I'm currently waiting on breast MRI and genetics results, so I might have to get a double mastectomy anyway.</text>
+      <annotation id="7">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:37:46Z</infon>
+        <location offset="19" length="3"/>
+        <text>36F</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:18:15Z</infon>
+        <location offset="39" length="7"/>
+        <text>stage 0</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:18:59Z</infon>
+        <location offset="92" length="10"/>
+        <text>mastectomy</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:37:56Z</infon>
+        <location offset="118" length="6"/>
+        <text>breast</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:19:34Z</infon>
+        <location offset="150" length="6"/>
+        <text>tumors</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:19:54Z</infon>
+        <location offset="191" length="10"/>
+        <text>mastectomy</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:38:41Z</infon>
+        <location offset="329" length="19"/>
+        <text>external prosthetic</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:38:51Z</infon>
+        <location offset="419" length="6"/>
+        <text>breast</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:20:54Z</infon>
+        <location offset="426" length="3"/>
+        <text>MRI</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:21:11Z</infon>
+        <location offset="484" length="10"/>
+        <text>mastectomy</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

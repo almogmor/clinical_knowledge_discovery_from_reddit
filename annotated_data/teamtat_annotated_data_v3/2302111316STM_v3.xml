@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111316STM</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_1@I think it does. I had clear nodes, fortunately and surprisingly given the ultimate size of my tumor (2cm). However, if you're "young" with a high oncotype often chemo is recommended even if nodes are clear...</text>
+      <annotation id="2">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:02:43Z</infon>
+        <infon key="error:misaligned:2">109-&gt;110</infon>
+        <location offset="110" length="11"/>
+        <text>tumor (2cm)</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:02:29Z</infon>
+        <location offset="110" length="5"/>
+        <text>tumor</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:04:10Z</infon>
+        <location offset="162" length="8"/>
+        <text>oncotype</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:04:21Z</infon>
+        <location offset="177" length="5"/>
+        <text>chemo</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

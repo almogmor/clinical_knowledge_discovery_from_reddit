@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041757UYP</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_113@I (17, f) found out my mom (34, f) has breast cancer a few months ago, she has been going through chemo and is losing her hair and is getting more sick and tired as the days progress but she is handling everything incredibly courageously, and I have done everything to be there for my mom but I feel like I am falling apart, I sleep all day, don’t eat a thing, hate going to school, don’t study even a bit even though this year is considered one of the most important year as it determines which college you go to, turns out I have no real friends to talk to about any of this and most of them don’t even care to check up on my mom or me even though I have been there for them always, I hate going to my therapist since she says the same thing over and over again, my teachers are asking me why grades my are depleting and why I hardly study anymore but I can’t tell them about my mom as she said she would like it if not everyone knew unless they had to and I would like to respect her wishes. I don’t know what to do and feel absolutely helpless and devastated. </text>
+      <annotation id="1">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:15:59Z</infon>
+        <location offset="17" length="5"/>
+        <text>17, f</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:16:01Z</infon>
+        <location offset="42" length="5"/>
+        <text>34, f</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:16:17Z</infon>
+        <location offset="53" length="13"/>
+        <text>breast cancer</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:16:17Z</infon>
+        <location offset="53" length="6"/>
+        <text>breast</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:16:26Z</infon>
+        <location offset="112" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:16:33Z</infon>
+        <location offset="125" length="15"/>
+        <text>losing her hair</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:16:39Z</infon>
+        <location offset="161" length="4"/>
+        <text>sick</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:16:43Z</infon>
+        <location offset="170" length="5"/>
+        <text>tired</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:17:07Z</infon>
+        <location offset="356" length="9"/>
+        <text>don’t eat</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:17:43Z</infon>
+        <location offset="718" length="9"/>
+        <text>therapist</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:18:21Z</infon>
+        <location offset="1053" length="8"/>
+        <text>helpless</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:18:25Z</infon>
+        <location offset="1066" length="10"/>
+        <text>devastated</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>1088</offset>
+      <text>Is there anything I could do except of going to therapy to help me. </text>
+      <annotation id="13">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:18:47Z</infon>
+        <location offset="1136" length="7"/>
+        <text>therapy</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>1156</offset>
+      <text>I will be seeing my therapist soon but if there is anything else I could do to help me please let me know so I can pull myself together for my mom.</text>
+    </passage>
+  </document>
+</collection>

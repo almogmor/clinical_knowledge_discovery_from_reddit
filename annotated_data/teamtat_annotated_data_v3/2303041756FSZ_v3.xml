@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756FSZ</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_144@I feel you.</text>
+    </passage>
+    <passage>
+      <offset>28</offset>
+      <text>After my diagnosis with cancer I was informed I also had a life long kidney disease that’s basically a ticking time bomb. Once I beat cancer, the reality of this other disease really started to set in.</text>
+      <annotation id="1">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:22:08Z</infon>
+        <location offset="37" length="9"/>
+        <text>diagnosis</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:22:13Z</infon>
+        <location offset="52" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:22:44Z</infon>
+        <location offset="97" length="14"/>
+        <text>kidney disease</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:23:06Z</infon>
+        <location offset="162" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>231</offset>
+      <text>I am super envious of my friends and family who have had the luxury of not having to deal with any health issues. It such a massive burden on my physical and mental well being.</text>
+      <annotation id="5">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:23:36Z</infon>
+        <location offset="389" length="17"/>
+        <text>mental well being</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

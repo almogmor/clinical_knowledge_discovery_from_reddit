@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756VUB</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_124@Hi!   </text>
+    </passage>
+    <passage>
+      <offset>23</offset>
+      <text>I had my surgery June 13, and around 4 weeks was really bad, now at like 6/7 weeks, I'm a lot better.   </text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:54:30Z</infon>
+        <location offset="32" length="7"/>
+        <text>surgery</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>127</offset>
+      <text>I actually thought my synthroid was too low, because I was having what you were describing... but when I got my levels checked they said i have the right does (100 mg).   </text>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:55:20Z</infon>
+        <location offset="149" length="9"/>
+        <text>synthroid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>298</offset>
+      <text>I'm still exhausted past 9pm (when before I was always up till 2/3 and could live off 4-5 hrs sleep). I just feel like I have less stamina - but it is improving.   </text>
+      <annotation id="3">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:55:45Z</infon>
+        <location offset="308" length="9"/>
+        <text>exhausted</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>462</offset>
+      <text>I think it just takes a while (like 3 months) for the body to get over the shock of it all.   </text>
+    </passage>
+    <passage>
+      <offset>556</offset>
+      <text>You don't need to wait for an endo to get your levels checked though, my fam doc did it for me because the endo was booking several weeks out.   </text>
+    </passage>
+    <passage>
+      <offset>701</offset>
+      <text>Good luck! Please share anything that works!</text>
+    </passage>
+  </document>
+</collection>

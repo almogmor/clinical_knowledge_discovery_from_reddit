@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317KSY</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_28@I wish I had words of wisdom, but if it helps, you are not alone. </text>
+    </passage>
+    <passage>
+      <offset>82</offset>
+      <text>August is my 1 year cancer-versary. I am tired and angry, the opposite of grateful.</text>
+      <annotation id="1">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:07:40Z</infon>
+        <location offset="102" length="14"/>
+        <text>cancer-versary</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:07:45Z</infon>
+        <location offset="123" length="5"/>
+        <text>tired</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:07:52Z</infon>
+        <location offset="133" length="5"/>
+        <text>angry</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

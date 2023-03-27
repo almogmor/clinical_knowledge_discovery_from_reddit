@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111316IIX</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_6@Hey u/BarelyALunatic,</text>
+    </passage>
+    <passage>
+      <offset>36</offset>
+      <text>I hear you and I see what you’re feeling cause I would be lying if these thoughts either haven’t gone through my mind or still do. While my situation was different as I did an ASCT as a proactive measure rather than because of relapsing, I still feel like I forced to play one of my treatment cards that I can’t get back. It’s a mind fuck to either have a 100% chance of dying with no treatment or whatever odds we get with an ASCT or an Allo SCT and I hate that we are forced into these positions, and often times when we’re hitting points of our lives where we’re suppose to be thriving.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T17:36:27Z</infon>
+        <location offset="212" length="4"/>
+        <text>ASCT</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T17:46:51Z</infon>
+        <location offset="463" length="4"/>
+        <text>ASCT</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T17:47:01Z</infon>
+        <location offset="474" length="8"/>
+        <text>Allo SCT</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>637</offset>
+      <text>But let me start from the beginning. I did BEAM for my ASCT and it was miserable and definitely felt like a step up from my first line treatment, BV-CHEP. Side effects were very similar to BV-CHEP and I got a few new ones too. It took me 12 days after infusion to get out of the hospital and I felt well enough to drive myself to my follow up appointment 2 days later. If I really wanted to push it, I could have gone back to work but since I had the time off anyways I took it off and resumed work about a month after discharge. I work in IT so it was all remote work anyways. I’m a 32M now and all this happened last year, so I bounced back really quickly. I took a lot of walks as my care team said it helps with recovery, energy, and engraftment.</text>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T17:49:30Z</infon>
+        <location offset="680" length="4"/>
+        <text>BEAM</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T17:49:42Z</infon>
+        <location offset="692" length="4"/>
+        <text>ASCT</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T17:50:32Z</infon>
+        <location offset="783" length="7"/>
+        <text>BV-CHEP</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T17:50:58Z</infon>
+        <location offset="826" length="7"/>
+        <text>BV-CHEP</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T17:51:45Z</infon>
+        <location offset="889" length="8"/>
+        <text>infusion</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T17:52:39Z</infon>
+        <location offset="1221" length="3"/>
+        <text>32M</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>1389</offset>
+      <text>Relapse is a big fear for me too, my lymphoma is so notorious for coming back and coming back fast that an ASCT is part of my first line treatment. During my initial diagnosis and start of treatment, a part of me let go of everything. My hopes and dreams of a future where I can grow old with my wife and seeing my daughter grow up and become an angsty teenager or get married or whatever future she may have. She just turned 2 a few weeks ago. A part of me doesn’t dare to dream of a future because I don’t want to get my hopes up for exactly the reasons that you mention.</text>
+      <annotation id="10">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T17:54:04Z</infon>
+        <location offset="1426" length="8"/>
+        <text>lymphoma</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T17:54:32Z</infon>
+        <location offset="1496" length="4"/>
+        <text>ASCT</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T17:54:48Z</infon>
+        <location offset="1555" length="9"/>
+        <text>diagnosis</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>1966</offset>
+      <text>There are a few things that helped shift my perspective and allow me to try my best to live life the best I can. The biggest was trying to radicially prioritize the things that mattered most in my life. To do that I asked myself 4 questions</text>
+    </passage>
+    <passage>
+      <offset>2206</offset>
+      <text>-	What do I believe?</text>
+    </passage>
+    <passage>
+      <offset>2226</offset>
+      <text>-	What is important to me?</text>
+    </passage>
+    <passage>
+      <offset>2252</offset>
+      <text>-	Who do I love?</text>
+    </passage>
+    <passage>
+      <offset>2268</offset>
+      <text>-	How do I live in a way that honors those things?</text>
+    </passage>
+    <passage>
+      <offset>2318</offset>
+      <text>Those questions gave me a focus in what I decide to put my time and ultimately my life into. Every day we get is one more day that we may have otherwise not be able to experience. For me it feels like I was suppose to die when I was first diagnosed, it was caught so late, doctors were fearful I wouldnt be able to walk again, and if was any other cancer it advanced so far that treatment would only slow things down. But I didn’t, and got the best possible outcome. Every day afterwards has been extra.</text>
+      <annotation id="13">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T17:58:03Z</infon>
+        <location offset="2666" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>2823</offset>
+      <text>So what I try to do with varying success is to live my dreams of today and use those questions to help me figure out what those dreams are. I still don’t dare to dream too far into the future, but I figure if my dream can come true on the daily, I dont have to worry about a future I may or may not get because I have this day given to me. If I can go to sleep every night knowing I did my part to leave no regrets in the day, then the rest will take care of itself.</text>
+    </passage>
+  </document>
+</collection>

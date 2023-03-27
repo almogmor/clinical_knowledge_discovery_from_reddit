@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756LSO</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_114@For me , the worst is the armchair doctors that tell me about all the “ cures” I should try . Well I knew a guy who knew a guy who tried this rare leaf and it cured them . Why don’t you try this tea or this silver , It will cure you … </text>
+    </passage>
+    <passage>
+      <offset>260</offset>
+      <text>I’ll stick to the medicine &amp;amp; Chemo my doctor , who is an expert in my rare cancer , has prescribed. I know they are trying to help , but it really doesn’t . I really hate that that just don’t seem to grasp that everything comes with a cost both monetary , emotionally &amp;amp; physically .</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:03:40Z</infon>
+        <location offset="293" length="5"/>
+        <text>Chemo</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:03:49Z</infon>
+        <location offset="339" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

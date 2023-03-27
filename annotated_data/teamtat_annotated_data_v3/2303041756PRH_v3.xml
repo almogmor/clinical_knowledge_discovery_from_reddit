@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756PRH</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_102@I haven't gone through what you have but My husband currently has NHL and it sucks, to say the least. For him mainly, but also for me and the kids. My biggest fear right now is that I get cancer at the same time as him. Who will take care of him, who will take care of me, who will take care of the kids? Cancer is a sick fucking joke. </text>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:18:40Z</infon>
+        <location offset="83" length="3"/>
+        <text>NHL</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:18:55Z</infon>
+        <location offset="205" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:19:07Z</infon>
+        <location offset="322" length="6"/>
+        <text>Cancer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>353</offset>
+      <text>I am really sorry to hear your family has to go through this. I hope that you have a good support system. Being the caregiver is very hard in it's own way. I feel like you'll have such great empathy for him and that will help you help him get through it. At times I do forget to think about how it must feel for my husband to go through this and I try to remember to be sympathetic and empathetic. </text>
+    </passage>
+    <passage>
+      <offset>751</offset>
+      <text>You've got this. If you can go through cancer and survive chemo, you can do anything right? </text>
+      <annotation id="4">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:19:45Z</infon>
+        <location offset="790" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:19:52Z</infon>
+        <location offset="809" length="5"/>
+        <text>chemo</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>843</offset>
+      <text>Wishing you the best smoothest process. I will pray for you guys as well. Our faith and church family as gotten us so much farther than we could ever get by ourselves.</text>
+    </passage>
+  </document>
+</collection>

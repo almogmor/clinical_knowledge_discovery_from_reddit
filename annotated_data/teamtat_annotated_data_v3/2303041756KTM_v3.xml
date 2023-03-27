@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756KTM</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_105@Yikes, that's what I'm afraid of, giving up on the last 2 treatments.  Luckily today has been better, didn't take ibuprofen even.  Not to say neuropathy won't creep up later..... </text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:14:09Z</infon>
+        <location offset="131" length="9"/>
+        <text>ibuprofen</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:14:15Z</infon>
+        <location offset="159" length="10"/>
+        <text>neuropathy</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>196</offset>
+      <text>m hearing so many people getting gabapentin - all I know about that drug is that one of my cats years ago was prescribed it, so I think of it as 'cat medicine' lol.</text>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:14:54Z</infon>
+        <location offset="229" length="10"/>
+        <text>gabapentin</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

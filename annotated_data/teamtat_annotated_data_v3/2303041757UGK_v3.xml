@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041757UGK</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_141@Lately, I've struggled to relate to the guy I thought was my best friend. We went to grad school together. He recently graduated, but he was very sheltered growing up. For example, he recently got a job that required him to move \~2 hours away from home. I understand moving is stressful, and I tried hard to be patient with him. He is single and lives alone, but he has a friend who lives in the same apartment building and friends in the city he moved to, so it's not like he is completely alone. He is also within driving distance from home.</text>
+      <annotation id="1">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:13:19Z</infon>
+        <location offset="292" length="9"/>
+        <text>stressful</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>558</offset>
+      <text>I left my house at 18. For the past two years, I made big moves to start jobs where I did not know a soul. I got diagnosed with cancer shortly after this last big move (last August) and have had to have multiple surgeries, without much of a support system. I was lucky that a family member of mine flew to be with me during my surgery recovery, but this past year has been hell. I had to stay where I was to continue working and to keep my health insurance, so I had to deal with this in an entirely new city with no friends.</text>
+      <annotation id="2">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:13:41Z</infon>
+        <location offset="671" length="9"/>
+        <text>diagnosed</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:13:46Z</infon>
+        <location offset="686" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:14:00Z</infon>
+        <location offset="770" length="9"/>
+        <text>surgeries</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:14:17Z</infon>
+        <location offset="885" length="7"/>
+        <text>surgery</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:14:21Z</infon>
+        <location offset="893" length="8"/>
+        <text>recovery</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>1083</offset>
+      <text>I have been very patient when he has cried to me on the phone (I get that moving and starting a new job is stressful). I recognize that moving was my choice, and I know everyone goes through things on different timelines. I have tried to be as nonjudgmental and caring as possible, but it just seems kind of tone deaf when he knows what I have been through. I add this context because I think it's important to understand the resentment that is building up. </text>
+      <annotation id="7">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:14:51Z</infon>
+        <location offset="1190" length="9"/>
+        <text>stressful</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>1541</offset>
+      <text>I finally lost it on him the other day when we were talking about life, and he asked me if I think I will regret not having children because: </text>
+    </passage>
+    <passage>
+      <offset>1683</offset>
+      <text>A) This is none of his business, and B) READ THE ROOM, dude. </text>
+    </passage>
+    <passage>
+      <offset>1744</offset>
+      <text>I just went through the most traumatic year of my life, and this is what you want to talk about right now? This entire conversation made me furious. I do not typically let things like this bother me, but I could not contain it any longer and told him he needs to grow up. Am I wrong for being angry and frustrated with my friend? I feel awful for yelling at him, but it's hard not to feel resentful in this situation. </text>
+      <annotation id="8">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:15:30Z</infon>
+        <location offset="1884" length="7"/>
+        <text>furious</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:15:43Z</infon>
+        <location offset="2037" length="5"/>
+        <text>angry</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>2162</offset>
+      <text>tl;dr: My "best" friend has had trouble adjusting to a big move and life changes. I have tried to be patient, but the last year of my life has been hell (I was diagnosed with cancer far away from my family). Am I a jerk for thinking his problems are trivial compared to mine and losing my patience with him?</text>
+      <annotation id="10">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:16:10Z</infon>
+        <location offset="2322" length="9"/>
+        <text>diagnosed</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:16:16Z</infon>
+        <location offset="2337" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

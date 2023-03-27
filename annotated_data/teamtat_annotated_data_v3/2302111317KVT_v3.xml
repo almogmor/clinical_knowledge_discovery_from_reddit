@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317KVT</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_96@Thank you so much for the support. My doctor will be in office august 2 because in Canada it’s a holiday. Do you think Tylenol would help?</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope,almogmor345@gmail.com</infon>
+        <infon key="updated_at">2023-02-18T12:54:01Z</infon>
+        <location offset="135" length="7"/>
+        <text>Tylenol</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

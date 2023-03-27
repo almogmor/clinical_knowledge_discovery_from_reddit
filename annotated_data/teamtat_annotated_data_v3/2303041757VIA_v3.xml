@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041757VIA</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_121@I am 55, so the specialist is recommending surgery rather than radiation due to chance of Increased secondary cancers caused by the high energy beam years down the line. </text>
+      <annotation id="1">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:00:14Z</infon>
+        <location offset="14" length="7"/>
+        <text>I am 55</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:00:23Z</infon>
+        <location offset="57" length="7"/>
+        <text>surgery</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:00:26Z</infon>
+        <location offset="77" length="9"/>
+        <text>radiation</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:00:34Z</infon>
+        <location offset="124" length="7"/>
+        <text>cancers</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>184</offset>
+      <text>This particular surgeon uses the ‘open’ surgery approach rather than laparoscopic or robotic. As it gives them complete visibility into what’s going on. </text>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:01:15Z</infon>
+        <location offset="224" length="7"/>
+        <text>surgery</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:01:48Z</infon>
+        <location offset="253" length="12"/>
+        <text>laparoscopic</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:01:51Z</infon>
+        <location offset="269" length="7"/>
+        <text>robotic</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>343</offset>
+      <text>He fully admits he is biased to that strategy as that is his thing, so recommended I get other opinions first. He was pretty convincing so at the moment I am leaning that way </text>
+    </passage>
+    <passage>
+      <offset>518</offset>
+      <text>I am going to get recommendations from another surgeon and a radiologist to hear their pitch. I just want this thing out of me. I will put up with whatever physical challenges it presents, those are battles I can fight. </text>
+    </passage>
+    <passage>
+      <offset>738</offset>
+      <text>Has anyone had ‘open’ radical prostatectomy?</text>
+      <annotation id="8">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:03:28Z</infon>
+        <location offset="753" length="28"/>
+        <text>‘open’ radical prostatectomy</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:03:28Z</infon>
+        <infon key="error:misaligned:9">767-&gt;768</infon>
+        <location offset="768" length="13"/>
+        <text>prostatectomy</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

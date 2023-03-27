@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317BNI</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_81@I’m wishing you the best.  My husband had a transplant at the age of 53 5 years ago.  It was a rough trip but he’s doing great!!!  Just telling you this to give some hope.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T13:22:05Z</infon>
+        <location offset="60" length="10"/>
+        <text>transplant</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T13:22:17Z</infon>
+        <location offset="78" length="6"/>
+        <text>age of</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:30:42Z</infon>
+        <location offset="85" length="2"/>
+        <text>53</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-18T13:23:19Z</infon>
+        <location offset="131" length="11"/>
+        <text>doing great</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

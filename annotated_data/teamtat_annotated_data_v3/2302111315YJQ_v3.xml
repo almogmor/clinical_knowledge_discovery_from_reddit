@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315YJQ</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_22@I was told by a renowned Brachytherapy doctor that the fact that I have already started hormone therapy (one shot) will inhibit the ability to tell if the two types of radiation therapy  I will be having will have been effective for two years (via PSA tests).  I now have two opinions.   First, get the two radiation type treatments plus hormones.  The second, same but no hormones.  I have a (apparently) contained small but aggressive (Gleason 8) lesion.  I am now confused as to how they monitor for success after treatments?  This is a result of the fact that the Brachy doctor, who I was referred to, is independent from the other group (a medical school facility).  Any insight would be appreciated. Now I am questioning my course of action as well.  </text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:42:02Z</infon>
+        <location offset="38" length="13"/>
+        <text>Brachytherapy</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:42:38Z</infon>
+        <location offset="101" length="15"/>
+        <text>hormone therapy</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:42:47Z</infon>
+        <location offset="181" length="9"/>
+        <text>radiation</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:36:47Z</infon>
+        <location offset="191" length="7"/>
+        <text>therapy</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:37:01Z</infon>
+        <infon key="error:misaligned:11">260-&gt;261</infon>
+        <location offset="261" length="9"/>
+        <text>PSA tests</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:37:01Z</infon>
+        <location offset="261" length="3"/>
+        <text>PSA</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:43:44Z</infon>
+        <infon key="error:misaligned:7">315-&gt;316</infon>
+        <location offset="316" length="43"/>
+        <text>two radiation type treatments plus hormones</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:43:44Z</infon>
+        <location offset="320" length="9"/>
+        <text>radiation</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:43:44Z</infon>
+        <location offset="351" length="8"/>
+        <text>hormones</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:37:16Z</infon>
+        <location offset="386" length="8"/>
+        <text>hormones</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:44:16Z</infon>
+        <location offset="439" length="10"/>
+        <text>aggressive</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:44:10Z</infon>
+        <location offset="451" length="9"/>
+        <text>Gleason 8</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

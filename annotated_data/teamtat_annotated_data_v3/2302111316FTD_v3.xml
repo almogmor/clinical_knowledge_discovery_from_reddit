@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111316FTD</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_3@I don't know if it will make you feel any better, but I was, back in 2020, diagnosed with a malignant tumor (astrocytoma) that, when found, I was told I'd likely been living with it for at least a few decades.</text>
+      <annotation id="3">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:33:52Z</infon>
+        <location offset="90" length="9"/>
+        <text>diagnosed</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:33:44Z</infon>
+        <location offset="107" length="15"/>
+        <text>malignant tumor</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:33:46Z</infon>
+        <location offset="124" length="11"/>
+        <text>astrocytoma</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

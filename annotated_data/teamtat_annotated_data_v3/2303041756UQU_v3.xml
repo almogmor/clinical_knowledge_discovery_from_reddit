@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756UQU</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_141@A little YTA. My friends- especially the ones in other cities- have a habit of talking out their issues with me even during treatment because it's their way of keeping a sense of normality within the friendship and, I believe, it is because they see my input as being valid to their tragedies (however small they may be,  comparatively), despite having cancer.</text>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:29:07Z</infon>
+        <location offset="370" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>377</offset>
+      <text>I think some deeper part of you knows that their intentions weren't bad, or that they were in fact doing this anyway, or you wouldn't be feeling awful for the outburst. That said, I also think that given your diagnosis, cancer patients like us kinda always get a free pass so, from one patient to another, you get a very small YTA score. 0.1-0.2/5. You know your friend innately so I feel like you'd know if this is just their way of connecting to you or coping through it as well. Only you could say with that, I'm afraid.</text>
+      <annotation id="2">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:29:30Z</infon>
+        <location offset="586" length="9"/>
+        <text>diagnosis</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:29:35Z</infon>
+        <location offset="597" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>900</offset>
+      <text>You're going through something harrowing and, despite your friend probably seeing you as highly capable, you are entitled to feel how you're feeling. If you are feeling a particular way and you need something to change it's perfectly okay to request that of your friends. Say it in a group context too.</text>
+    </passage>
+    <passage>
+      <offset>1202</offset>
+      <text>"Hey guys, I'm usually pretty open and understanding but this whole cancer thing has thrown me through a loop and I need to take my time to feel it all out, get my bearings, and I need your help to not add any undue pressure. Once I'm through all of this I'll help you with your problems again like I usually would, but right now I lack the mental fortitude to deal with external issues or provide my usual support for things."</text>
+      <annotation id="4">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:30:34Z</infon>
+        <location offset="1270" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>1629</offset>
+      <text>They shouldn't push you on that point, but if they do, they're not very good friends anyway. Good luck with your treatment and</text>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317MUD</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_97@My cancer was an accidental finding when I had a routine chest x-ray for business purposes.  I heard over and over from medical staff, family &amp;amp; friends how "lucky" I am.  It was awful to hear that.</text>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan,Tom Hope,almogmor345@gmail.com</infon>
+        <infon key="updated_at">2023-02-18T12:47:51Z</infon>
+        <location offset="19" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan,Tom Hope,almogmor345@gmail.com</infon>
+        <infon key="updated_at">2023-02-18T12:49:53Z</infon>
+        <location offset="73" length="11"/>
+        <text>chest x-ray</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>217</offset>
+      <text>I mean, there are moments where I am grateful to have health coverage and access to a major cancer center.  It's not lost on me that not everyone has that.</text>
+      <annotation id="5">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan,Tom Hope,almogmor345@gmail.com</infon>
+        <infon key="updated_at">2023-02-18T12:52:43Z</infon>
+        <location offset="254" length="8"/>
+        <text>grateful</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">OTHER_RELEVANT</infon>
+        <infon key="identifier">OTHER:</infon>
+        <infon key="annotator">Shivtan,Tom Hope,almogmor345@gmail.com</infon>
+        <infon key="updated_at">2023-02-18T12:51:08Z</infon>
+        <location offset="271" length="15"/>
+        <text>health coverage</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan,Tom Hope,almogmor345@gmail.com</infon>
+        <infon key="updated_at">2023-02-18T12:50:36Z</infon>
+        <location offset="309" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>372</offset>
+      <text>But aside from that, the whole expectation of the grateful, superhero warrior narrative is insensitive and unrealistic.</text>
+    </passage>
+    <passage>
+      <offset>491</offset>
+      <text>ETA- Thanks to everyone on this thread and most of the folks on this sub for your honesty. Y'all are the only ones who make me feel normal sometimes.</text>
+    </passage>
+  </document>
+</collection>

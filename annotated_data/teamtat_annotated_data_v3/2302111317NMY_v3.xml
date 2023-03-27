@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317NMY</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_65@Isn't that the worst feeling ever? My breast itself is still numb so I'm almost scared I'll draw blood. Breast Cancer, the gift that keeps on giving....</text>
+      <annotation id="1">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:35:32Z</infon>
+        <location offset="54" length="6"/>
+        <text>breast</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:35:38Z</infon>
+        <location offset="77" length="4"/>
+        <text>numb</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:35:56Z</infon>
+        <location offset="120" length="13"/>
+        <text>Breast Cancer</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:35:56Z</infon>
+        <location offset="120" length="6"/>
+        <text>Breast</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

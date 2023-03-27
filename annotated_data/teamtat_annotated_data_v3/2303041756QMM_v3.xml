@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756QMM</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_121@Thanks, I will be getting all my referrals set up this week and then it’s just a matter of scheduling. I have anxiety about how long to be comfortable ‘waiting’ for a robotic surgery if I can get open surgery right away. I have no doubt the robotic is better based on peoples feedback here, and what I’ve read, but I’m also hesitant to wait very long. Feels like a time bomb inside me.</text>
+      <annotation id="1">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:58:46Z</infon>
+        <location offset="127" length="7"/>
+        <text>anxiety</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:59:04Z</infon>
+        <location offset="184" length="15"/>
+        <text>robotic surgery</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:59:04Z</infon>
+        <location offset="192" length="7"/>
+        <text>surgery</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:59:09Z</infon>
+        <location offset="218" length="7"/>
+        <text>surgery</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

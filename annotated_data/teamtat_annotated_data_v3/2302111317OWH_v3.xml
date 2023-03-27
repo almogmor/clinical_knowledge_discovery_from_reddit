@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317OWH</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_49@I don't have any tattoos myself, but I've been thinking about this recently, too.</text>
+    </passage>
+    <passage>
+      <offset>97</offset>
+      <text>For Lymphoma, more specifically classical Hodgkin's Lymphoma, I figured owl motifs might be used pretty often. Ya know, as Reed-Sternberg cells have the whole double-nuclei that bear resemblance to the barn owl face thaaaang but I haven't seen that to be the case.</text>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:15:45Z</infon>
+        <location offset="101" length="8"/>
+        <text>Lymphoma</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:15:59Z</infon>
+        <location offset="139" length="18"/>
+        <text>Hodgkin's Lymphoma</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:46:01Z</infon>
+        <location offset="220" length="20"/>
+        <text>Reed-Sternberg cells</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

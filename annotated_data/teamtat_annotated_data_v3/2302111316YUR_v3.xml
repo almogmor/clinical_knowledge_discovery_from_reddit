@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111316YUR</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_9@I go back and forth. I struggle a lot because I have secondary issues caused by the chemo that there is nothing doctors can do about. I have lung disease and everyday I feel chest tightness and short of breath. My acid reflux is much worse and my allergies are terrible. My body pain is almost constant. Doctors keep saying "at least you are alive" thanks. </text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:30:15Z</infon>
+        <location offset="99" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:30:28Z</infon>
+        <location offset="156" length="12"/>
+        <text>lung disease</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:30:35Z</infon>
+        <location offset="156" length="4"/>
+        <text>lung</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:31:19Z</infon>
+        <location offset="229" length="11"/>
+        <text>acid reflux</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:31:34Z</infon>
+        <location offset="262" length="9"/>
+        <text>allergies</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>372</offset>
+      <text>I am glad I survived but I feel like I push on for others. I have two kids, ages 13 and 11. I try to focus on the positive for them.</text>
+    </passage>
+  </document>
+</collection>

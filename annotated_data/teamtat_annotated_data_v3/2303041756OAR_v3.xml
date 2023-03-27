@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756OAR</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_101@Its very rare for you to have prostate cancer at your age.</text>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:20:33Z</infon>
+        <location offset="47" length="15"/>
+        <text>prostate cancer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>75</offset>
+      <text>Get your mind off it. As for your symptoms it looks like you are having prostatis or CPPS.</text>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:20:44Z</infon>
+        <location offset="147" length="9"/>
+        <text>prostatis</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:20:46Z</infon>
+        <location offset="160" length="4"/>
+        <text>CPPS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>165</offset>
+      <text>Definitely not csncer</text>
+      <annotation id="4">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:20:52Z</infon>
+        <location offset="180" length="6"/>
+        <text>csncer</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

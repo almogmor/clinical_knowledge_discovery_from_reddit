@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317CUS</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_41@i feel like im turning into a villain and sometimes being a survivor isn’t enough to be happy.</text>
+    </passage>
+    <passage>
+      <offset>112</offset>
+      <text>earlier today my grandparents asked me if i wanted them to pay for plastic surgery to cover up my scars because they’re ugly. im already having social anxiety so if that’s how they see me then it just reassures what i think other people think of me</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:54:27Z</infon>
+        <location offset="179" length="15"/>
+        <text>plastic surgery</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:54:56Z</infon>
+        <location offset="256" length="14"/>
+        <text>social anxiety</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:54:56Z</infon>
+        <location offset="263" length="7"/>
+        <text>anxiety</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

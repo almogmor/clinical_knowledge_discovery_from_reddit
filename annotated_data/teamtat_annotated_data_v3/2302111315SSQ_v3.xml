@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315SSQ</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_58@I have just finished nine months of chemo for my osteosarcoma. I so so so hope it’s gone!! </text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:01:01Z</infon>
+        <location offset="49" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:01:55Z</infon>
+        <location offset="62" length="12"/>
+        <text>osteosarcoma</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>106</offset>
+      <text>Everybody else doesn’t seem to think it’s a big deal but I am so proud I just had to share!!</text>
+    </passage>
+    <passage>
+      <offset>202</offset>
+      <text>One knee prosthetic, two lung surgeries and mtx, doxorubicin and cisplatin combined. </text>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:08:38Z</infon>
+        <location offset="227" length="14"/>
+        <text>lung surgeries</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:08:38Z</infon>
+        <location offset="227" length="4"/>
+        <text>lung</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:02:46Z</infon>
+        <location offset="246" length="3"/>
+        <text>mtx</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:08:45Z</infon>
+        <location offset="251" length="11"/>
+        <text>doxorubicin</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:08:45Z</infon>
+        <location offset="251" length="34"/>
+        <text>doxorubicin and cisplatin combined</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:08:45Z</infon>
+        <location offset="267" length="9"/>
+        <text>cisplatin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>287</offset>
+      <text>I know you never know for sure but I am so glad that at least in this very moment there is no chemo waiting for me at the start of every week :))</text>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:03:25Z</infon>
+        <location offset="381" length="5"/>
+        <text>chemo</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

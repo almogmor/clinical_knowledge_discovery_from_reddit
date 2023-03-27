@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315BAX</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_51@Hello, I'm posting this for my mom who recently had biopsy.</text>
+      <annotation id="1">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:14:56Z</infon>
+        <location offset="65" length="6"/>
+        <text>biopsy</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>72</offset>
+      <text>"I'm new to life with cancer, just found out a week ago that I have stage 6 papillary carcinoma. Now waiting for an oncologist appointment. Meanwhile I would be happy to know how you were dealing with this type of carcinoma. Has anybody succeeded &amp; reduced the stage or size without a surgery?</text>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:15:21Z</infon>
+        <location offset="94" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:15:39Z</infon>
+        <location offset="140" length="7"/>
+        <text>stage 6</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:16:31Z</infon>
+        <location offset="148" length="19"/>
+        <text>papillary carcinoma</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:17:08Z</infon>
+        <location offset="286" length="9"/>
+        <text>carcinoma</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:12:37Z</infon>
+        <location offset="333" length="5"/>
+        <text>stage</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:12:44Z</infon>
+        <location offset="342" length="4"/>
+        <text>size</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T19:17:17Z</infon>
+        <location offset="357" length="7"/>
+        <text>surgery</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>365</offset>
+      <text>I'm not looking for a miracle, just would like to know some statistics, to understand my options and learn about what others have found useful - trying to keep myself calm until my appointment. Any advices will be much appreciated."</text>
+    </passage>
+    <passage>
+      <offset>597</offset>
+      <text>Thank you!</text>
+    </passage>
+  </document>
+</collection>

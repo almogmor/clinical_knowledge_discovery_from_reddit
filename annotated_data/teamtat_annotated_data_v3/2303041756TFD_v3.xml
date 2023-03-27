@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756TFD</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_142@I'm sorry that happened to you, and I feel your anger. I had pain in my breast end of 2021, mammo found a lump, was told to come back 6 months later for a follow up, but I was having so much pain I made an appt. to get followed up earlier and they cancelled it on me because 6 months hadn't passed yet. Btw I have a family history of breast cancer. At the follow up, the lump had doubled in size, but more delays getting that info to my doctor to get the biopsy...When I'm on the table, the radiologist said, "why didn't you come in earlier to get this biopsied?" As if I could just walk in, take a number and get that needle stuck in my boob.</text>
+      <annotation id="1">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:25:45Z</infon>
+        <location offset="65" length="5"/>
+        <text>anger</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:26:04Z</infon>
+        <infon key="error:misaligned:3">77-&gt;78</infon>
+        <location offset="78" length="17"/>
+        <text>pain in my breast</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:26:04Z</infon>
+        <location offset="78" length="4"/>
+        <text>pain</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:26:13Z</infon>
+        <location offset="89" length="6"/>
+        <text>breast</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:26:21Z</infon>
+        <location offset="109" length="5"/>
+        <text>mammo</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:26:26Z</infon>
+        <location offset="123" length="4"/>
+        <text>lump</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:26:41Z</infon>
+        <location offset="208" length="4"/>
+        <text>pain</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:27:26Z</infon>
+        <infon key="error:misaligned:11">350-&gt;351</infon>
+        <location offset="351" length="6"/>
+        <text>breast</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:27:11Z</infon>
+        <location offset="351" length="13"/>
+        <text>breast cancer</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:27:01Z</infon>
+        <infon key="error:misaligned:9">357-&gt;358</infon>
+        <location offset="358" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:27:35Z</infon>
+        <location offset="388" length="4"/>
+        <text>lump</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:27:44Z</infon>
+        <location offset="397" length="15"/>
+        <text>doubled in size</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:27:55Z</infon>
+        <location offset="472" length="6"/>
+        <text>biopsy</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:28:07Z</infon>
+        <location offset="570" length="8"/>
+        <text>biopsied</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:28:18Z</infon>
+        <location offset="636" length="12"/>
+        <text>needle stuck</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

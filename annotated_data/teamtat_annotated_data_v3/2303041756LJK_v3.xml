@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756LJK</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_137@Is there any chance that he is constipated? R-CHOP is very tough on the digestive system and constipation can be incredibly painful. I am about your dad’s age and I recommend he keep track of when he has a bowel,move,ent so that he doesn’t fall behind - no pun intended. It can be embarrassing to talk about but the docs often recommend colace or senakot or both.  And lots of water!  Good luck to him on the PET scan.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:38:38Z</infon>
+        <location offset="61" length="6"/>
+        <text>R-CHOP</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:40:09Z</infon>
+        <infon key="error:misaligned:3">75-&gt;76</infon>
+        <location offset="76" length="29"/>
+        <text>tough on the digestive system</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:40:09Z</infon>
+        <location offset="89" length="16"/>
+        <text>digestive system</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:40:12Z</infon>
+        <location offset="110" length="12"/>
+        <text>constipation</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:40:18Z</infon>
+        <location offset="141" length="7"/>
+        <text>painful</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:41:33Z</infon>
+        <infon key="error:misaligned:8">353-&gt;354</infon>
+        <location offset="354" length="25"/>
+        <text>colace or senakot or both</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:41:33Z</infon>
+        <location offset="354" length="6"/>
+        <text>colace</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:41:33Z</infon>
+        <location offset="364" length="7"/>
+        <text>senakot</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:41:49Z</infon>
+        <location offset="426" length="8"/>
+        <text>PET scan</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

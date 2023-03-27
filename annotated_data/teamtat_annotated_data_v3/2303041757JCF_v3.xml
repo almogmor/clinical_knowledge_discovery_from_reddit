@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041757JCF</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_127@Anyone changing their diet to include flaxseed meal for hormone positive cancer? Seen some studies suggesting it may have estrogen blocking activity but haven’t asked my onc yet about it. As I’m going to eventually be on a hormone blocker, not sure if it isn’t recommended if you’re going that route.</text>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:52:49Z</infon>
+        <location offset="87" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

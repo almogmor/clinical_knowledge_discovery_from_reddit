@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756UKO</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_122@Mine was placed the day before, and the surgeon placed right under the incision rather than tucking it under the skin next to the incision. This meant the nurse connecting the port the next day had to go directly through the still fresh incision. It hurt like a bitch, and they continually had a problem getting that port to work too. I don’t know if that was related. I would ask for more healing time because of the pain issue though. That hurt more than any other procedure I’ve had.</text>
+      <annotation id="1">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:57:42Z</infon>
+        <location offset="435" length="4"/>
+        <text>pain</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

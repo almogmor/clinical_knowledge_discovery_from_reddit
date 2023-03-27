@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315TYR</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_52@I'm 4 months out from radiation to left breast. I had a chest x-ray the other day and it shows "defined opaqueness that could represent a focus of infection or inflammation". I assume this is from the radiation and from what I've read it can be expected and is treatable. Just wonder if anyone else has had this. 💕</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:14:00Z</infon>
+        <location offset="35" length="9"/>
+        <text>radiation</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:11:50Z</infon>
+        <location offset="48" length="11"/>
+        <text>left breast</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:11:50Z</infon>
+        <location offset="53" length="6"/>
+        <text>breast</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:14:10Z</infon>
+        <location offset="69" length="11"/>
+        <text>chest x-ray</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:11:56Z</infon>
+        <location offset="160" length="9"/>
+        <text>infection</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:11:58Z</infon>
+        <location offset="173" length="12"/>
+        <text>inflammation</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan</infon>
+        <infon key="updated_at">2023-02-20T19:14:16Z</infon>
+        <location offset="214" length="9"/>
+        <text>radiation</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

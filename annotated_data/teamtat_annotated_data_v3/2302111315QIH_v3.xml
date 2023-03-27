@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315QIH</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_90@My mastectomy was the end of November 2021. The end of January 2022 I had surgery again on the same right breast to remove an infected tissue expander. I thought I was recovering pretty well and started doing “normal” activities With rest time in between. About 2 to 3 months ago I ordered a prosthetic bra and have been wearing it. But the last few weeks the bra has become really really uncomfortably tight. I have an appointment to go get a larger bra Tuesday. I know Igained weight from the estrogen blocker I’m on but this huge increase in chest size seems odd. I’m also getting really easily out of breath just from climbing stairs walking etc. I asked my radiologist if it might be pneumonitis but his nurse said that is a rare one percent outcome. Tonight I was googling and found post mastectomy reconstructive pain as an issue For a percentage of patients. I sure would like to hear if any of you have experienced this and what you have done. Also wondering if it’s lymphedema? Have questions in to my GP and oncologist.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:46:27Z</infon>
+        <location offset="16" length="10"/>
+        <text>mastectomy</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:44:56Z</infon>
+        <location offset="87" length="7"/>
+        <text>surgery</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:46:44Z</infon>
+        <location offset="113" length="12"/>
+        <text>right breast</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:46:44Z</infon>
+        <infon key="error:misaligned:4">118-&gt;119</infon>
+        <location offset="119" length="6"/>
+        <text>breast</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:47:02Z</infon>
+        <location offset="129" length="34"/>
+        <text>remove an infected tissue expander</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:47:06Z</infon>
+        <infon key="error:misaligned:7">138-&gt;139</infon>
+        <location offset="139" length="8"/>
+        <text>infected</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:47:02Z</infon>
+        <location offset="139" length="24"/>
+        <text>infected tissue expander</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:47:19Z</infon>
+        <location offset="508" length="16"/>
+        <text>estrogen blocker</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:47:52Z</infon>
+        <location offset="802" length="30"/>
+        <text>post mastectomy reconstructive</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:47:52Z</infon>
+        <location offset="802" length="35"/>
+        <text>post mastectomy reconstructive pain</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:47:59Z</infon>
+        <location offset="989" length="10"/>
+        <text>lymphedema</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

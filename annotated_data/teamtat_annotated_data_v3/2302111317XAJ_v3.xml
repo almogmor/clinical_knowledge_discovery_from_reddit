@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317XAJ</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_48@I started the day after my port was placed. My port was uncomfortable for the first week or so, but not in a way that accessing it was any more difficult or painful. It felt like it was too “short” and pulling on my neck, so it was a different kind of uncomfortable The stick was barely noticeable, and I didn’t use any numbing cream, I just iced it for a few minutes before the stick. The stick is super fast- not like the time it takes to access a vein for an IV.</text>
+      <annotation id="2">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:47:57Z</infon>
+        <location offset="160" length="9"/>
+        <text>difficult</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:48:00Z</infon>
+        <location offset="173" length="7"/>
+        <text>painful</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:48:24Z</infon>
+        <location offset="336" length="13"/>
+        <text>numbing cream</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:48:31Z</infon>
+        <location offset="358" length="7"/>
+        <text>iced it</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:48:49Z</infon>
+        <location offset="395" length="5"/>
+        <text>stick</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:48:46Z</infon>
+        <location offset="406" length="5"/>
+        <text>stick</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:18:20Z</infon>
+        <location offset="478" length="2"/>
+        <text>IV</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

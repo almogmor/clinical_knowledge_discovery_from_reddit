@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317ACR</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_29@Hey mama. I see you and I hear you. I was diagnosed with stage two breast cancer after a clear mammo the year prior. I know it’s not the same BUT I say this to say my my 2 tumors were less than one centimeter but it had already spread to my lymphnodes. My breast surgeon told me if I had come in earlier in the year, my mammo was postponed due to covid, they may not have even seen the the small spots and god knows what would have happened.</text>
+      <annotation id="1">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:05:01Z</infon>
+        <location offset="58" length="9"/>
+        <text>diagnosed</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:05:16Z</infon>
+        <location offset="73" length="9"/>
+        <text>stage two</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:05:23Z</infon>
+        <location offset="83" length="13"/>
+        <text>breast cancer</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:05:28Z</infon>
+        <location offset="83" length="6"/>
+        <text>breast</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:05:23Z</infon>
+        <location offset="90" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:05:35Z</infon>
+        <location offset="111" length="5"/>
+        <text>mammo</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:05:45Z</infon>
+        <location offset="188" length="6"/>
+        <text>tumors</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:06:02Z</infon>
+        <location offset="244" length="6"/>
+        <text>spread</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:05:58Z</infon>
+        <location offset="257" length="10"/>
+        <text>lymphnodes</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:06:27Z</infon>
+        <location offset="272" length="6"/>
+        <text>breast</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:06:35Z</infon>
+        <location offset="336" length="5"/>
+        <text>mammo</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:06:40Z</infon>
+        <location offset="363" length="5"/>
+        <text>covid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>459</offset>
+      <text>This whole thing makes me angry. The ageist practices in medicine, etc. I’m not brca and no fam history so I understand where you’re coming from. Timing is everything. Bless your journey and know we are all here with you!</text>
+      <annotation id="13">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T18:06:58Z</infon>
+        <location offset="485" length="5"/>
+        <text>angry</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

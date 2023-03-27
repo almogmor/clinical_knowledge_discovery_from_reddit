@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041757ISQ</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_137@So my dad is going on his 3rd round of R-CHOP treatment next week with non Hodgkin Lymphoma and has had most of his pain in his abdomen so far. Waiting for treatment to start was very painful and a lot of his abdomen swelling has reduced since he started but he still has very intense cramping during and after he eats. Very painful and we are just wondering if this was common with other people?  He is going to get a 2nd PET scan before his next chemo treatment. Any feedback would be appreciated.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:23:12Z</infon>
+        <location offset="40" length="19"/>
+        <text>3rd round of R-CHOP</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:23:12Z</infon>
+        <location offset="53" length="6"/>
+        <text>R-CHOP</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:24:10Z</infon>
+        <location offset="89" length="16"/>
+        <text>Hodgkin Lymphoma</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:24:31Z</infon>
+        <location offset="198" length="7"/>
+        <text>painful</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:24:43Z</infon>
+        <location offset="223" length="16"/>
+        <text>abdomen swelling</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:25:04Z</infon>
+        <location offset="339" length="7"/>
+        <text>painful</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:25:27Z</infon>
+        <location offset="433" length="12"/>
+        <text>2nd PET scan</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:25:41Z</infon>
+        <location offset="462" length="5"/>
+        <text>chemo</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315GQL</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_10@My wife (48f) has been in chemo treatments since March, trying to slow the spread of the cancer which had already spread to lungs and liver by the time she was diagnosed. We were living in New Youth City and she was being treated at Mount Sinai. The treatments seemed to be working for the first couple of months, however it was clear after a while that although the pancreas and lung tumors were shrinking the liver was growing. At the end of June we moved out of New York and came up to Buffalo to Roswell cancer center. Mostly because we could no longer stored New York City with her in this condition and did not have a way to have help there. We expected the treatments to continue but she has a bowel blockage which needed to be treated so they put it on hold.  After aCT scan showed the liver continuing to grow we convinced the doctor to do a round of chemo on Tuesday. Another CT scan on Friday showed more growth, so the doctor is now recommending hospice since he thinks continued treatment will shorten her life rather than have any effect on the tumors. </text>
+      <annotation id="1">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:19:01Z</infon>
+        <location offset="22" length="3"/>
+        <text>48f</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:19:11Z</infon>
+        <location offset="39" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:19:29Z</infon>
+        <location offset="102" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:43:39Z</infon>
+        <location offset="137" length="5"/>
+        <text>lungs</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:43:49Z</infon>
+        <location offset="147" length="5"/>
+        <text>liver</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:44:13Z</infon>
+        <location offset="380" length="8"/>
+        <text>pancreas</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:44:06Z</infon>
+        <location offset="393" length="11"/>
+        <text>lung tumors</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:21:39Z</infon>
+        <location offset="410" length="9"/>
+        <text>shrinking</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:22:03Z</infon>
+        <location offset="424" length="16"/>
+        <text>liver was growin</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:OTHER</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:43:58Z</infon>
+        <infon key="error:misaligned:11">520-&gt;521</infon>
+        <location offset="521" length="13"/>
+        <text>cancer center</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:22:41Z</infon>
+        <location offset="521" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:23:14Z</infon>
+        <location offset="714" length="14"/>
+        <text>bowel blockage</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:24:31Z</infon>
+        <location offset="787" length="8"/>
+        <text>aCT scan</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:44:20Z</infon>
+        <location offset="807" length="5"/>
+        <text>liver</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:24:10Z</infon>
+        <location offset="873" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:24:23Z</infon>
+        <location offset="899" length="7"/>
+        <text>CT scan</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:OTHER</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:44:28Z</infon>
+        <location offset="1072" length="6"/>
+        <text>tumors</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>1080</offset>
+      <text>I am sick about everything, what we could have done different, what to do now. We are asking for second opinions, but it all just feels hopeless. </text>
+      <annotation id="18">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:25:42Z</infon>
+        <location offset="1080" length="26"/>
+        <text>I am sick about everything</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:26:11Z</infon>
+        <location offset="1216" length="8"/>
+        <text>hopeless</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>1226</offset>
+      <text>I hate this disease, I hate that my life wasn’t prepared for it, I hate that my daughter (11f) is going to have to see her mom in hospice. It is all so terrible. I feel like I failed her as a husband but I also know that this might have been inevitable with how late she was diagnosed.</text>
+      <annotation id="20">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:OTHER</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:26:36Z</infon>
+        <location offset="1316" length="3"/>
+        <text>11f</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:27:00Z</infon>
+        <location offset="1400" length="12"/>
+        <text>I failed her</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

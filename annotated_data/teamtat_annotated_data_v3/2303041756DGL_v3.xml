@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756DGL</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_104@I was scheduled to start chemo the day after my port placement, but I was incredibly uncomfortable. I thought it was just part of the procedure and healing but when I showed up to get accessed the next day nobody would touch it because it looked “angry.” Turns out I had a surface-level cellulitis infection and needed a week on antibiotics before starting chemo. I did not enjoy the port placement process at all, and that whole time was really uncomfortable and frustrating. So I was glad for the extra time there. Everything’s pretty smooth-sailing now and I’ve come around to the port, though it still annoys me sometimes.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:15:21Z</infon>
+        <location offset="42" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:15:26Z</infon>
+        <location offset="65" length="14"/>
+        <text>port placement</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:15:53Z</infon>
+        <location offset="263" length="7"/>
+        <text>“angry.</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:16:07Z</infon>
+        <location offset="346" length="11"/>
+        <text>antibiotics</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:16:18Z</infon>
+        <location offset="374" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:16:29Z</infon>
+        <location offset="401" length="14"/>
+        <text>port placement</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>651</offset>
+      <text>I remember my nurse navigator saying at the time that she personally didn’t like the quick turnaround from port placement to first chemo, she would have preferred more time for patients to heal. For what it’s worth!</text>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:17:01Z</infon>
+        <location offset="782" length="5"/>
+        <text>chemo</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317LGW</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_45@I cut my hair in a couple phases. I chopped my mid back-length hair into an asymmetrical bob w/ an undercut a few weeks before chemo. Wanted to try something bold. After my hair started falling out in clumps 2 wks after my first infusion I knew it was time and had my bf buzz it and let the rest fall off naturally.</text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:19:46Z</infon>
+        <location offset="143" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:20:16Z</infon>
+        <location offset="245" length="8"/>
+        <text>infusion</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>331</offset>
+      <text>I didn’t cold cap because I would rather deal w/ hair loss than w/ cold-induced migraines. </text>
+    </passage>
+    <passage>
+      <offset>424</offset>
+      <text>I’m now 7 months post chemo and look unintentionally edgy w/ my short hair. I’m keeping it trimmed and neat while going through the grow out process and currently at a micro-pixie.</text>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T16:20:55Z</infon>
+        <location offset="446" length="5"/>
+        <text>chemo</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315PQC</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_60@The worst day of my life has finally come yesterday. My dad has been diagnosed with stomach cancer. I’m still in disbelief and the thought of him passing is heartbreaking and tears me down. My dad is the type to say “if it’s his time then that’s what god wants and has planned”. He’s not depressed and has been living life normally. We get details on Monday and wish I could pause time forever. My dad speaks Spanish so I will be there to help translate and see what the next steps are (hopefully) treatment. I love him a lot and don’t wish this upon anyone. Luckily, my girlfriend (with who I live with) has been extremely supportive. I’m scared. I do research on stomach cancer and the odds aren’t good. I pray everything turns out “okay” but I just don’t want to face the truth. I just don’t know what I would do without him. We (together) remodeled my whole home and tears me apart that he will be gone and won’t be there if I need help. My mom has been strong but I know deep down, this is just as hard. Just to give you an idea of who he was, he was the person to always be there for you. He would wake up every morning to turn my moms car on and make breakfast. To whoever reads this, I appreciate your advice on this topic. This is so new and never expected this to be us.</text>
+      <annotation id="1">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:05:48Z</infon>
+        <location offset="82" length="9"/>
+        <text>diagnosed</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:06:04Z</infon>
+        <infon key="error:misaligned:4">96-&gt;97</infon>
+        <location offset="97" length="7"/>
+        <text>stomach</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:05:57Z</infon>
+        <location offset="97" length="14"/>
+        <text>stomach cancer</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:05:57Z</infon>
+        <infon key="error:misaligned:3">104-&gt;105</infon>
+        <location offset="105" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:06:32Z</infon>
+        <infon key="error:misaligned:6">296-&gt;297</infon>
+        <location offset="297" length="13"/>
+        <text>not depressed</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:06:32Z</infon>
+        <location offset="301" length="9"/>
+        <text>depressed</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:06:59Z</infon>
+        <location offset="649" length="10"/>
+        <text>I’m scared</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:07:10Z</infon>
+        <location offset="678" length="14"/>
+        <text>stomach cancer</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:07:16Z</infon>
+        <location offset="678" length="7"/>
+        <text>stomach</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:07:10Z</infon>
+        <infon key="error:misaligned:9">685-&gt;686</infon>
+        <location offset="686" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

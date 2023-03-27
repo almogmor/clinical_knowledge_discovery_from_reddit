@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041757XFH</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_107@My mom (67) was diagnosed with stage 4 ovarian cancer in March 2022. She has undergone 6 rounds of chemotherapy with a 7th scheduled for Friday, and then a surgery for a hysterectomy and removal of part of her liver.</text>
+      <annotation id="1">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:27:00Z</infon>
+        <location offset="17" length="8"/>
+        <text>mom (67)</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:27:03Z</infon>
+        <location offset="17" length="3"/>
+        <text>mom</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:27:00Z</infon>
+        <location offset="22" length="2"/>
+        <text>67</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:27:38Z</infon>
+        <location offset="30" length="9"/>
+        <text>diagnosed</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:27:11Z</infon>
+        <location offset="45" length="7"/>
+        <text>stage 4</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:27:33Z</infon>
+        <infon key="error:misaligned:6">52-&gt;53</infon>
+        <location offset="53" length="14"/>
+        <text>ovarian cancer</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:27:33Z</infon>
+        <location offset="53" length="7"/>
+        <text>ovarian</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:27:52Z</infon>
+        <location offset="101" length="24"/>
+        <text>6 rounds of chemotherapy</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:27:52Z</infon>
+        <infon key="error:misaligned:9">112-&gt;113</infon>
+        <location offset="113" length="12"/>
+        <text>chemotherapy</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:28:07Z</infon>
+        <location offset="170" length="7"/>
+        <text>surgery</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:28:34Z</infon>
+        <location offset="184" length="12"/>
+        <text>hysterectomy</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:29:00Z</infon>
+        <location offset="201" length="28"/>
+        <text>removal of part of her liver</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:29:00Z</infon>
+        <location offset="224" length="5"/>
+        <text>liver</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>230</offset>
+      <text>She has always struggled deeply with mental illness (depression, undiagnosed bipolar, etc.) and this experience has just knocked her down to the very bottom of mental well-being. She has voiced wanting to stop treatment— it being too much, etc. (overall her numbers are drastically improving and she is doing “well” all things considered, medically). She wishes she was never born, she thinks cancer is her “punishment”, she (as a very Christian woman) has shunned her faith…it’s absolutely heartbreaking to watch.</text>
+      <annotation id="14">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:29:13Z</infon>
+        <location offset="267" length="14"/>
+        <text>mental illness</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:29:15Z</infon>
+        <location offset="283" length="10"/>
+        <text>depression</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:29:19Z</infon>
+        <location offset="295" length="19"/>
+        <text>undiagnosed bipolar</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:29:28Z</infon>
+        <location offset="390" length="17"/>
+        <text>mental well-being</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:29:56Z</infon>
+        <location offset="623" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>758</offset>
+      <text>I just do not know how to be a support to her when she is despondent and inconsolable. I feel so drained— nothing is comforting to her, I just wish I had the right words.</text>
+      <annotation id="19">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:30:39Z</infon>
+        <location offset="816" length="10"/>
+        <text>despondent</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T11:30:58Z</infon>
+        <location offset="831" length="12"/>
+        <text>inconsolable</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

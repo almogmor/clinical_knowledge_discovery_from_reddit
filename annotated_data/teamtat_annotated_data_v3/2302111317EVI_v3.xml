@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317EVI</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_79@Thanks for sharing! I’m sorry about your thyroid. Did that start during the chemo+keytruda phase of treatment or the keytruda-only?</text>
+      <annotation id="1">
+        <infon key="type">OTHER_RELEVANT</infon>
+        <infon key="identifier">OTHER:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T15:39:50Z</infon>
+        <location offset="57" length="7"/>
+        <text>thyroid</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T15:40:04Z</infon>
+        <location offset="92" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T15:41:38Z</infon>
+        <location offset="98" length="8"/>
+        <text>keytruda</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T15:41:47Z</infon>
+        <location offset="133" length="8"/>
+        <text>keytruda</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756BNR</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_147@I just finished 7 weeks of treatment and was feeling optimistic. Had a CT scan on Friday. I get the results before my doctor visit Monday. </text>
+      <annotation id="1">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:37:12Z</infon>
+        <location offset="70" length="10"/>
+        <text>optimistic</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>156</offset>
+      <text>Everything is still there! My main tumor has shrunk the tiniest bit.</text>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:37:27Z</infon>
+        <location offset="191" length="5"/>
+        <text>tumor</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:37:35Z</infon>
+        <location offset="201" length="6"/>
+        <text>shrunk</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>224</offset>
+      <text>I was so fucking angry! </text>
+      <annotation id="4">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:37:53Z</infon>
+        <location offset="241" length="5"/>
+        <text>angry</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>248</offset>
+      <text>Everyone is telling me being angry doesn't do any good. I've finally gotten to the point where I don't feel bad saying "I have a fucking right to be angry." </text>
+      <annotation id="5">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:38:00Z</infon>
+        <location offset="277" length="5"/>
+        <text>angry</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>405</offset>
+      <text>I'm tired of being nice and grateful and all the other bs. I'm just pissed. And tired.</text>
+      <annotation id="6">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:38:21Z</infon>
+        <location offset="433" length="8"/>
+        <text>grateful</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:38:36Z</infon>
+        <location offset="485" length="5"/>
+        <text>tired</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

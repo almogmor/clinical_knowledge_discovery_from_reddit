@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315SUY</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_16@For awhile I covered it because I read it was recommended to keep it covered from the sun for 3-4 mos. Now I don’t do anything bc I’m past that time but it’s still jarring to see. People have asked about my scar behind my back. I worry it makes me look like I was self harming. What is your relationship to your scar and if you’ve had it a long time, does it really fade? If you cover it, do you have style or makeup tips you like using? </text>
+    </passage>
+    <passage>
+      <offset>459</offset>
+      <text>Just bummed I have something so visible.</text>
+      <annotation id="1">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-20T18:58:15Z</infon>
+        <location offset="459" length="11"/>
+        <text>Just bummed</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

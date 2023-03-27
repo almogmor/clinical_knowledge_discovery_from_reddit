@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111315WGO</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_26@Hi there 👋🏿 31 here and just diagnosed er low+, pr moderate+, her2+ invasive ductal carcinoma from biopsy with 6cm mass from imaging. MRI scheduled for Friday.</text>
+      <annotation id="1">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:31:37Z</infon>
+        <infon key="error:misaligned:1">27-&gt;25</infon>
+        <location offset="25" length="2"/>
+        <text>31</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:31:44Z</infon>
+        <infon key="error:misaligned:2">44-&gt;42</infon>
+        <location offset="42" length="9"/>
+        <text>diagnosed</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:32:30Z</infon>
+        <infon key="error:misaligned:5">54-&gt;52</infon>
+        <location offset="52" length="7"/>
+        <text>er low+</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:32:32Z</infon>
+        <infon key="error:misaligned:6">63-&gt;61</infon>
+        <location offset="61" length="12"/>
+        <text>pr moderate+</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:33:19Z</infon>
+        <infon key="error:misaligned:7">77-&gt;75</infon>
+        <location offset="75" length="5"/>
+        <text>her2+</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:33:19Z</infon>
+        <infon key="error:misaligned:8">77-&gt;75</infon>
+        <location offset="75" length="31"/>
+        <text>her2+ invasive ductal carcinoma</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:32:00Z</infon>
+        <infon key="error:misaligned:3">114-&gt;112</infon>
+        <location offset="112" length="6"/>
+        <text>biopsy</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:33:25Z</infon>
+        <infon key="error:misaligned:9">126-&gt;124</infon>
+        <location offset="124" length="3"/>
+        <text>6cm</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T19:32:07Z</infon>
+        <infon key="error:misaligned:4">149-&gt;147</infon>
+        <location offset="147" length="3"/>
+        <text>MRI</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>178</offset>
+      <text>Anyone with similar situation? What was your treatment like?</text>
+    </passage>
+    <passage>
+      <offset>238</offset>
+      <text>Thank you!</text>
+    </passage>
+  </document>
+</collection>

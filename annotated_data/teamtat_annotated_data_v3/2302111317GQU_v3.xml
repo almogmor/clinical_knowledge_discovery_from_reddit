@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317GQU</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_72@Thanks, I do have the MTHFR mutation but I've never had a problem with folate until now. I've had to give myself B12 injections since my 20s, now I'm in my 50s and my blood work lit up with elevated MCV MCH. I'll look into the methylated folate.</text>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T15:50:52Z</infon>
+        <location offset="38" length="14"/>
+        <text>MTHFR mutation</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:33:35Z</infon>
+        <location offset="87" length="6"/>
+        <text>folate</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T15:51:50Z</infon>
+        <location offset="129" length="14"/>
+        <text>B12 injections</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T17:33:52Z</infon>
+        <location offset="153" length="3"/>
+        <text>20s</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">DEMOGRAPHICS</infon>
+        <infon key="identifier">DEMOGRAPH:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T15:52:07Z</infon>
+        <location offset="169" length="6"/>
+        <text>my 50s</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T15:52:57Z</infon>
+        <location offset="215" length="3"/>
+        <text>MCV</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T15:53:08Z</infon>
+        <location offset="219" length="3"/>
+        <text>MCH</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Maria Antoniak,Shivtan,Tom Hope</infon>
+        <infon key="updated_at">2023-02-18T15:53:52Z</infon>
+        <location offset="243" length="17"/>
+        <text>methylated folate</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

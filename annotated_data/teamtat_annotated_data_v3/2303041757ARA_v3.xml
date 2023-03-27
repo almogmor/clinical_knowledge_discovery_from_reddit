@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041757ARA</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_130@I'm 44. So, I had zero signs of cancer last August. Now I’m at stage 4. I never waited to get anything checked. I went again to check a cyst in April. </text>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:30:36Z</infon>
+        <location offset="46" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>167</offset>
+      <text>This doesn’t run in my family. I do, and have done for 14+ years, everything you’re supposed to do to avoid disease. Pristine plant based mostly raw diet. Exercise. No smoking, no alcohol, ideal weight, mostly organic, non toxic products. The only thing has been stressful stuff I couldn’t avoid over the last bunch of years. </text>
+      <annotation id="2">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:31:00Z</infon>
+        <location offset="275" length="7"/>
+        <text>disease</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>499</offset>
+      <text>I don’t get it. Even my oncologist is surprised. I have mets in so many bones yet all I have is a sore shoulder and that is recent and improves every day. I look and feel totally normal other than that and this huge lump in my breast, which only felt like a cyst before (and was confirmed a cyst last year) and which I thought had grown. It was annoying me and I wanted it out. But no, this time there was more than the cyst. </text>
+      <annotation id="3">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:35:32Z</infon>
+        <location offset="715" length="4"/>
+        <text>lump</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">ANATOMICAL</infon>
+        <infon key="identifier">ANATOMIC:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:34:03Z</infon>
+        <location offset="726" length="6"/>
+        <text>breast</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:34:51Z</infon>
+        <location offset="757" length="4"/>
+        <text>cyst</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:35:17Z</infon>
+        <location offset="790" length="4"/>
+        <text>cyst</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>927</offset>
+      <text>How could this get so bad SO FAST? I will never understand. Every single person i know is BAFFLED that i am going through this. i feel like my life has been hijacked, that its over. everything i have been planning seems stupid and impossible now. </text>
+    </passage>
+    <passage>
+      <offset>1174</offset>
+      <text>i do not expect actual answers, i just needed to vent to people who understand. </text>
+    </passage>
+    <passage>
+      <offset>1254</offset>
+      <text>I often feel like nothing is wrong. I feel fine. The low times are excruciatingly low. Suicidal thoughts. </text>
+    </passage>
+    <passage>
+      <offset>1360</offset>
+      <text>My first treatment was today. Zoladex. I am also going to do genetic testing which is covered for me since my oncologist ordered it. I think I am a bit of an anomaly to them as they agreed I did and do everything right.</text>
+      <annotation id="7">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:36:46Z</infon>
+        <location offset="1390" length="7"/>
+        <text>Zoladex</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">TEST</infon>
+        <infon key="identifier">TEST:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:36:53Z</infon>
+        <location offset="1421" length="15"/>
+        <text>genetic testing</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>1579</offset>
+      <text>Thanks for listening to me vent, I am so sad for everyone around me having to hear about cancer constantly, now. I was so multifaceted before and now I feel like I am 1 dimensional.</text>
+      <annotation id="9">
+        <infon key="type">MENTAL_STATE</infon>
+        <infon key="identifier">MENTAL:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:37:20Z</infon>
+        <location offset="1620" length="3"/>
+        <text>sad</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:37:28Z</infon>
+        <location offset="1668" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T10:37:28Z</infon>
+        <location offset="1668" length="6"/>
+        <text>cancer</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

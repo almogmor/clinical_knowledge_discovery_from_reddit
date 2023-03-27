@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2302111317MOJ</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_61@Dear commenters,</text>
+    </passage>
+    <passage>
+      <offset>32</offset>
+      <text>You may be able to use [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub), [LibGen](http://libgen.is/) or /r/scholar to remove barriers to your learning by allowing you to access this research. [There is also the Sci-Hub Now extension for your browser.](https://duckduckgo.com/?q=sci+hub+now+extension)</text>
+    </passage>
+    <passage>
+      <offset>332</offset>
+      <text>You can use the "report" feature to remove this comment - just mark it as spam. </text>
+    </passage>
+    <passage>
+      <offset>412</offset>
+      <text>*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DrugNerds) if you have any questions or concerns.*</text>
+    </passage>
+  </document>
+</collection>

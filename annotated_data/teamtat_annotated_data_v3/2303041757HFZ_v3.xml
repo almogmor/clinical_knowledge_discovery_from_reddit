@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041757HFZ</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>POST-EVAL_145@Continuing my preparation for my first chemo (docetaxel) session next week.   </text>
+      <annotation id="1">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:05:07Z</infon>
+        <location offset="53" length="5"/>
+        <text>chemo</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:05:13Z</infon>
+        <location offset="60" length="9"/>
+        <text>docetaxel</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>92</offset>
+      <text>Do people use THC in advance of feeling nausea or do you wait until you have symptoms?  Always fine to do it in advance (🙂), just want to see what most people do.</text>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T12:05:21Z</infon>
+        <location offset="106" length="3"/>
+        <text>THC</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

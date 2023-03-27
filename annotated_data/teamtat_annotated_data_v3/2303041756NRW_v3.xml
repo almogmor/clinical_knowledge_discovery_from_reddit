@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source/>
+  <date/>
+  <key/>
+  <document>
+    <id>2303041756NRW</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">3</infon>
+    <infon key="tt_round">3</infon>
+    <infon key="tt_review">1</infon>
+    <passage>
+      <offset>0</offset>
+      <text>COMMENT-EVAL_134@Honestly it's tough to effectively reduce nodule size because they really aren't swelling.</text>
+      <annotation id="2">
+        <infon key="type">SEVERITY</infon>
+        <infon key="identifier">SEV:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:44:40Z</infon>
+        <infon key="error:misaligned:2">58-&gt;59</infon>
+        <location offset="59" length="11"/>
+        <text>nodule size</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">DISEASE</infon>
+        <infon key="identifier">DISEASE:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:44:40Z</infon>
+        <location offset="59" length="6"/>
+        <text>nodule</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>107</offset>
+      <text>So maybe an anti inflammatory might help which Tylenol is not. I'm not recommending you take anything though - anything you take could exacerbate the swelling for unknown interactions.</text>
+      <annotation id="3">
+        <infon key="type">TREATMENT</infon>
+        <infon key="identifier">TREAT:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:45:28Z</infon>
+        <location offset="154" length="7"/>
+        <text>Tylenol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <offset>291</offset>
+      <text>You need to get a message to your doctor asap tomorrow - and if you can't eat then it's probably an ER visit. That's the only real answer possible here.</text>
+      <annotation id="4">
+        <infon key="type">SYMPTOM</infon>
+        <infon key="identifier">SYMP:</infon>
+        <infon key="annotator">Shivtan</infon>
+        <infon key="updated_at">2023-03-11T16:46:01Z</infon>
+        <location offset="359" length="9"/>
+        <text>can't eat</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>
