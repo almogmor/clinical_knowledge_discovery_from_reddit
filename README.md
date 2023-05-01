@@ -20,7 +20,7 @@ wget https://files.pushshift.io/reddit/comments/RC_2021-12.zst -P /cs/labs/tomho
 
 Command example:
 ```bash
-python3.9 add_post_title_author_to_pushitiodataset.py --file_name=raw_data_RC_2018-12
+python3.9 convert_zft_to_csv_raw_data.py 
 ```
 
 * The last stage is a crawler which gets the ‘permalink’ from the ‘csv’ files of stage 2 and scraps the post, comment and title from the reddit website. The last stage outputs the ‘raw_data’ file per month in a ‘csv’ format which is ready to later be annotated.

@@ -76,6 +76,7 @@ def parse_all_files():
                 continue
             parse_file(filename=raw_data_file, year=raw_data_file[3:7])
 
+#For specific file you can use
+#parse_file(filename="RC_2018-12.zst", year="2018")
+parse_all_files()
 
-#parse_all_files()
-parse_file(filename="RC_2018-12.zst", year="2018")
